@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "79DC4C51-77DB-4429-B8DC-D4E40D7DD47C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 70,
+    "x": 299.5,
+    "y": 3.5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "930D36D4-BDB0-40BA-AE65-AD212EF89ECD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "58B8A6B8-B6D8-457F-A5FC-053FD5A3D8DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1CC00E5E-E5B6-41D3-B9C1-F33FAF16E8FF"
+    },
+    {
+      "class": "text",
+      "id": "6E42FD59-905D-43EE-9391-96331FF68304"
+    }
+  ],
+  "name": "Battery",
+  "nameIsFixed": true,
+  "originalObjectID": "79DC4C51-77DB-4429-B8DC-D4E40D7DD47C",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

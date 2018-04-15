@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "E18C2EAB-B785-4CB7-B0D7-8D621C006253",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 139,
+    "width": 200,
+    "x": 0.2504819577698072,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D0A9D4D6-739B-4FD9-A6BB-8A5FE00CD5B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7F2F951A-1889-4AF8-BE3A-D98BBA7C6F08"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "764094CB-B729-489D-B01D-C93AA5938450"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1E4A3186-D510-4574-8A46-12882E2C9C17"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "077B2EAB-0A9A-426D-9785-CBC10A7D59F1"
+    }
+  ],
+  "name": "QIVICON Home Base 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1618,
+  "do_objectID": "67ECFE44-4F1F-493C-8257-63710FA3CFC3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 375,
+    "x": 21158,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3F0BE35D-8D1B-409D-8168-2E03A16575D6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0F9A8D06-A6B0-47F5-B25C-13EF11E0A7F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8C729AD5-35AB-4075-B2E0-8A80B1334C89"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0D2E920-82BA-4457-90CB-37F2C7E7CB3A"
+    },
+    {
+      "class": "text",
+      "id": "D20F3655-2478-4A88-BF32-AFA829DE1995"
+    },
+    {
+      "class": "text",
+      "id": "8BFCF384-1E50-4DA2-AF35-E2506A4FC83D"
+    },
+    {
+      "class": "text",
+      "id": "EB8A8E9E-0149-471C-92CE-62A477487418"
+    },
+    {
+      "class": "text",
+      "id": "A2F69D89-4869-498C-86F2-35AEA8F4C932"
+    },
+    {
+      "class": "text",
+      "id": "57200D1C-26C7-4A55-82B0-C51108072EE9"
+    },
+    {
+      "class": "text",
+      "id": "A16E9BA8-38DA-4BFB-96DF-C8F4D66668F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CC9D2EC1-8F55-4668-8A6F-6EC7E6F98645"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D2DB00E1-2A69-49C8-8F73-636F3BAF4E51"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AFED3074-472C-43C0-B586-6AF6E6B58850"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9F9BFCE5-3F15-4FDC-B354-358739C1D377"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C9AB8F5-88BE-489C-9C52-620239EDBFC7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "88B87AAA-2C5F-43C6-BB2D-03B550F9C22F"
+    }
+  ],
+  "name": "Time Picker Duration",
+  "nameIsFixed": true,
+  "originalObjectID": "67ECFE44-4F1F-493C-8257-63710FA3CFC3",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "86226016-E2BE-4142-968D-7DC3BDE6766A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

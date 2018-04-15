@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EC25BDD5-D32D-4B22-9F71-C9EAA5D51805",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 339,
+    "x": 18,
+    "y": 101
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Device Card",
+  "nameIsFixed": false,
+  "originalObjectID": "E58A877E-5B10-4F18-8697-5F91C91FCCE2",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "93332D0E-29DF-4E82-A786-1E732F5A8965",
+      "overrideName": "BD40B16F-C9B7-431D-9030-73DAFCB0583C_symbolID",
+      "value": "C4149855-A19A-4FF2-B8B6-DE957074CF92"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D012DB1-8ACB-49BF-BE87-F4E619E88BF9",
+      "overrideName": "98C69774-7A57-47E8-B022-A82A10A6493E_symbolID",
+      "value": "AE2B83EE-BAF5-44AF-8C82-632EBFAE88E2"
+    }
+  ],
+  "overrides": {
+    "98C69774-7A57-47E8-B022-A82A10A6493E": {
+      "symbolID": "AE2B83EE-BAF5-44AF-8C82-632EBFAE88E2"
+    },
+    "BD40B16F-C9B7-431D-9030-73DAFCB0583C": {
+      "symbolID": "C4149855-A19A-4FF2-B8B6-DE957074CF92"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F4113206-2034-4D56-B997-A293C70464A4",
+  "verticalSpacing": 0
+}

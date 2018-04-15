@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A9B71EC7-71E4-4C4B-8B69-8BAEDF1B0721",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 351,
+    "x": 12,
+    "y": 176
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Device Card Copy 2",
+  "nameIsFixed": false,
+  "originalObjectID": "ABCB1A87-A160-4837-9A2A-CE0010523947",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5AC67DA0-FBA9-464C-B6D9-A9EC21C4778D_symbolID",
+      "value": "D142821C-5657-4C75-92A1-E4600B1FEC87"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A4666EE4-D25D-4E3D-8BAF-7D28C4D90314_symbolID",
+      "value": "1F26972A-500F-47DD-B98A-4A8A41ADF9B1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "084B78EA-556B-4D27-BC84-33DDD46E3548_stringValue",
+      "value": "Temperature"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "04B7FABC-DD2D-4FA7-8341-AC0A3835FD3A_symbolID",
+      "value": "AE2B83EE-BAF5-44AF-8C82-632EBFAE88E2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8A60BC12-3FB8-45BE-AE45-174C8610BBAF/AAD45763-DBE2-4381-945C-85505473EABF_stringValue",
+      "value": "At a point of time"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4C8B585B-D5F3-4459-A70E-FA9DA15E0371_symbolID",
+      "value": "E3A3AA07-8FD9-4A0C-BEA5-703A3514FDFD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "780197C8-BBFF-4837-A6DE-D0D5E3BAF25C_symbolID",
+      "value": "CF77118F-8BD5-4170-802A-BA4DDF10D5BE"
+    }
+  ],
+  "overrides": {
+    "04B7FABC-DD2D-4FA7-8341-AC0A3835FD3A": {
+      "symbolID": "AE2B83EE-BAF5-44AF-8C82-632EBFAE88E2"
+    },
+    "084B78EA-556B-4D27-BC84-33DDD46E3548": "Temperature",
+    "4C8B585B-D5F3-4459-A70E-FA9DA15E0371": {
+      "symbolID": "E3A3AA07-8FD9-4A0C-BEA5-703A3514FDFD"
+    },
+    "5AC67DA0-FBA9-464C-B6D9-A9EC21C4778D": {
+      "symbolID": "D142821C-5657-4C75-92A1-E4600B1FEC87"
+    },
+    "780197C8-BBFF-4837-A6DE-D0D5E3BAF25C": {
+      "symbolID": "CF77118F-8BD5-4170-802A-BA4DDF10D5BE"
+    },
+    "8A60BC12-3FB8-45BE-AE45-174C8610BBAF": {
+      "AAD45763-DBE2-4381-945C-85505473EABF": "At a point of time"
+    },
+    "A4666EE4-D25D-4E3D-8BAF-7D28C4D90314": {
+      "symbolID": "1F26972A-500F-47DD-B98A-4A8A41ADF9B1"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B49439CA-4D76-4AC2-B927-EA479828B91C",
+  "verticalSpacing": 0
+}

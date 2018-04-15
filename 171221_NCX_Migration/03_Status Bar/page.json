@@ -1,0 +1,74 @@
+{
+  "_class": "page",
+  "do_objectID": "3C43C760-B738-4B43-B03C-2BDD3D09FB6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -450,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C54E88C8-CF30-4A6D-8E1E-CF7ACBF87AD2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C68E8056-0248-42DA-935F-FE8D7D8E2445"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BA6D31B-79E5-4097-BB20-814C9D86BEA8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7A99992E-0BBB-480E-B6CA-9DA03554809D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "169611F0-B14F-4D16-B79E-6A221B957EC2"
+    }
+  ],
+  "name": "03_Status Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -339,
+    "guides": [
+    ]
+  }
+}

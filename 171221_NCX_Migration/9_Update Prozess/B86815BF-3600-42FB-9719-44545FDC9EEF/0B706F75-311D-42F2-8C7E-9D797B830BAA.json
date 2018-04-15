@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0B706F75-311D-42F2-8C7E-9D797B830BAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 119,
+    "width": 359,
+    "x": 8,
+    "y": 205
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "notification",
+  "nameIsFixed": false,
+  "originalObjectID": "9816740F-E887-4213-AC62-B9E1CC05E677",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B7AEA553-2E48-420E-B923-5E7FEB0E4CAB_stringValue",
+      "value": "Update will be installed tomorrow <HH:MM>"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3F0EF9F0-7528-4F25-9A4F-C2056925537E_stringValue",
+      "value": "MAGENTA SMARTHOME"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CF094B79-B8AA-4119-AA9E-60935FDAD37D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/618603109732c7db0eca96c0fc580ce956e40427",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A00975BD-8903-4214-874E-40A6DC57FC38_stringValue",
+      "value": "Please open the Magenta SmartHome App to change update schedule."
+    }
+  ],
+  "overrides": {
+    "3F0EF9F0-7528-4F25-9A4F-C2056925537E": "MAGENTA SMARTHOME",
+    "A00975BD-8903-4214-874E-40A6DC57FC38": "Please open the Magenta SmartHome App to change update schedule.",
+    "B7AEA553-2E48-420E-B923-5E7FEB0E4CAB": "Update will be installed tomorrow <HH:MM>",
+    "CF094B79-B8AA-4119-AA9E-60935FDAD37D": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/618603109732c7db0eca96c0fc580ce956e40427",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4B6F229C-BEC4-446C-9B42-1FC608E7089D",
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "EB4D1F01-DAA3-4443-8493-BBA5B0558CC1"
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D451E232-6BB3-4D4B-8D67-959357FDD400",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 62,
+    "width": 284,
+    "x": 0,
+    "y": 325
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Menu Icon Copy 6",
+  "nameIsFixed": false,
+  "originalObjectID": "CA056B3C-FA81-4EE3-907E-971B79EEC9FD",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F1C607C1-543A-4135-8229-E4F4F19D3BAC_stringValue",
+      "value": "Messages"
+    }
+  ],
+  "overrides": {
+    "F1C607C1-543A-4135-8229-E4F4F19D3BAC": "Messages"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FD996CED-6901-4C8F-9F28-E73704336A61",
+  "verticalSpacing": 0
+}

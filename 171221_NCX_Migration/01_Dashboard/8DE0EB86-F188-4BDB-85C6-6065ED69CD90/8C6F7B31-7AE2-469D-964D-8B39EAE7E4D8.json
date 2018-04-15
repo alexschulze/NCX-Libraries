@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8C6F7B31-7AE2-469D-964D-8B39EAE7E4D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 188,
+    "x": 187,
+    "y": 618
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bottombar / Function Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "3F7C0DDA-827B-4108-B204-325A67DAC79B",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F1A1CDDA-DF44-4FB6-8504-8C28AC989F5F_stringValue",
+      "value": "Automations"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A53E386B-3EE2-48E2-BFA6-868A27E24070_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "A53E386B-3EE2-48E2-BFA6-868A27E24070": {
+      "symbolID": ""
+    },
+    "F1A1CDDA-DF44-4FB6-8504-8C28AC989F5F": "Automations"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "31342D2D-1BCD-459F-BCC7-66EC9776D754",
+  "verticalSpacing": 0
+}

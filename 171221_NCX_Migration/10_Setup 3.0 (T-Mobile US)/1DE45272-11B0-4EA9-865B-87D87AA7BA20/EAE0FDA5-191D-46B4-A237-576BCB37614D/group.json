@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "EAE0FDA5-191D-46B4-A237-576BCB37614D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 640,
+    "x": 0,
+    "y": 752
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "23D54072-EC54-45BE-92DD-29A647CF1B16"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "488757B7-C82F-44C2-AD1A-1E17A0DDC61A"
+    },
+    {
+      "class": "text",
+      "id": "4E73E807-EDEC-4586-8471-628B4FAFCC3C"
+    },
+    {
+      "class": "text",
+      "id": "A89F91FE-DAC9-4B22-8348-1FC20BC99F82"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D7B4B3C6-0ECC-47EE-AFC4-6D7BD92B3FB2"
+    }
+  ],
+  "name": "List / Login / Prefill Copy 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

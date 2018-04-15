@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6B969896-1395-4733-BD6B-7E39034A927E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 178,
+    "width": 375,
+    "x": 0,
+    "y": 72
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dialog / Expanded",
+  "nameIsFixed": false,
+  "originalObjectID": "C61B98C8-BB44-4FEB-842E-7427DBFBE9FF",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8DA586D8-31E0-46A5-A7DA-CE79906E38D8_stringValue",
+      "value": "Low Battery"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "69451923-0607-4F66-8D8F-6E251BB45F2C/5E7C108D-3AF0-4AD6-850C-C3E26F566226_stringValue",
+      "value": "Show me how"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "69451923-0607-4F66-8D8F-6E251BB45F2C/DAFF4E43-9FA6-48FE-9683-993C574D8383_stringValue",
+      "value": "Show me how"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8C9841CA-ACA3-43E3-9A48-B67CF9BF6405_stringValue",
+      "value": "Please change the batteries soon to be able to use your device. "
+    }
+  ],
+  "overrides": {
+    "69451923-0607-4F66-8D8F-6E251BB45F2C": {
+      "5E7C108D-3AF0-4AD6-850C-C3E26F566226": "Show me how",
+      "DAFF4E43-9FA6-48FE-9683-993C574D8383": "Show me how"
+    },
+    "8C9841CA-ACA3-43E3-9A48-B67CF9BF6405": "Please change the batteries soon to be able to use your device. ",
+    "8DA586D8-31E0-46A5-A7DA-CE79906E38D8": "Low Battery"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "172D2CE8-D5FA-4FBB-998A-CB476864AD33",
+  "verticalSpacing": 0
+}

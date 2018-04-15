@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3E13358D-0F8E-4883-8DAD-2B5272CEACDB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 84,
+    "width": 351,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Device Card",
+  "nameIsFixed": false,
+  "originalObjectID": "E58A877E-5B10-4F18-8697-5F91C91FCCE2",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D73DB729-B827-4613-B7DC-E1E844A7E7CA",
+      "overrideName": "5DD85302-8B25-4419-A6C7-76D9B20DDE57_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D23E13DC-9BCE-4A32-9082-272A5D0C7518",
+      "overrideName": "BD40B16F-C9B7-431D-9030-73DAFCB0583C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6038633D-D14B-4995-A257-49CBCA4D7B0A",
+      "overrideName": "E0EA2C9C-076F-459A-8E24-37BF567FDA44_stringValue",
+      "value": "Closed"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B573823C-1DBE-46F3-9924-62EC25068668",
+      "overrideName": "D77AF90B-5476-4F0B-BF9E-61FA07297F88_stringValue",
+      "value": "Door / Window Contact 1"
+    }
+  ],
+  "overrides": {
+    "5DD85302-8B25-4419-A6C7-76D9B20DDE57": {
+      "symbolID": ""
+    },
+    "BD40B16F-C9B7-431D-9030-73DAFCB0583C": {
+      "symbolID": ""
+    },
+    "D77AF90B-5476-4F0B-BF9E-61FA07297F88": "Door / Window Contact 1",
+    "E0EA2C9C-076F-459A-8E24-37BF567FDA44": "Closed"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F4113206-2034-4D56-B997-A293C70464A4",
+  "verticalSpacing": 0
+}

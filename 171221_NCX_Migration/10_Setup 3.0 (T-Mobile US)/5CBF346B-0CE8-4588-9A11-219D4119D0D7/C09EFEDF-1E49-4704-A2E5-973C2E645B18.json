@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C09EFEDF-1E49-4704-A2E5-973C2E645B18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 115,
+    "width": 3272,
+    "x": 0,
+    "y": 10276
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Charts / Main Headline Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2E21B2B6-17A4-4C4D-B8B7-734DD34540D1_stringValue",
+      "value": "01.03 setup | Alarm System"
+    }
+  ],
+  "overrides": {
+    "2E21B2B6-17A4-4C4D-B8B7-734DD34540D1": "01.03 setup | Alarm System"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CCAB2410-63BE-4DA8-A829-9E09FC38EEFF",
+  "verticalSpacing": 0
+}

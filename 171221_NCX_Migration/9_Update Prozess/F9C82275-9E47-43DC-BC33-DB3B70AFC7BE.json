@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F9C82275-9E47-43DC-BC33-DB3B70AFC7BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 181,
+    "width": 375,
+    "x": 437,
+    "y": 629
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Charts / Subtext BLACK Basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "14F70E44-0355-41E0-8539-0CFFE9886851_stringValue",
+      "value": "TBD: As push notification or as popup within the app or both? Add info: System wont be available for 30 min."
+    }
+  ],
+  "overrides": {
+    "14F70E44-0355-41E0-8539-0CFFE9886851": "TBD: As push notification or as popup within the app or both? Add info: System wont be available for 30 min."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AFA56DFF-9EF2-4DFF-BB73-AC1A2A790EF3",
+  "verticalSpacing": 0
+}

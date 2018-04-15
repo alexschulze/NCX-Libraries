@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0AD1E6FC-8BBE-4096-A327-2D7306F8D4B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 339,
+    "x": 18,
+    "y": 99
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Device Card",
+  "nameIsFixed": false,
+  "originalObjectID": "FC5E6C26-4CF2-42DA-9AEF-4B22D58FF623",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "70A9BE1F-56D0-48FF-A2F4-C2A84A5E3D12_stringValue",
+      "value": "Closed"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "74EEE4C0-787C-4F02-BAF1-3BBA41D49C45_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6776CD94-9BA2-4A2C-9FE8-A9158B6DFDE4_stringValue",
+      "value": "Door / Window Contact"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "00F6DCE7-9F5A-45E3-A0CF-56F71DAF6DD0_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "00F6DCE7-9F5A-45E3-A0CF-56F71DAF6DD0": {
+      "symbolID": ""
+    },
+    "6776CD94-9BA2-4A2C-9FE8-A9158B6DFDE4": "Door / Window Contact",
+    "70A9BE1F-56D0-48FF-A2F4-C2A84A5E3D12": "Closed",
+    "74EEE4C0-787C-4F02-BAF1-3BBA41D49C45": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 6,
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 3,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "942FBB45-CCBC-43C7-AD36-15AF6A0A1308",
+  "verticalSpacing": 0
+}

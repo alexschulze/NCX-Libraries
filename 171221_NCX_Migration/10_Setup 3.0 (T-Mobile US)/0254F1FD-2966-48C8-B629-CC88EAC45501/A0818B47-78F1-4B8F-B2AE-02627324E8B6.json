@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A0818B47-78F1-4B8F-B2AE-02627324E8B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 346,
+    "x": 6,
+    "y": 6
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "labels/label copy 6",
+  "nameIsFixed": false,
+  "originalObjectID": "51B24918-36AF-4E03-886C-55661B342435",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "84CDC378-01DD-42AD-9E34-91DEDE8C394C_stringValue",
+      "value": "01.02 Setup | Connect Devices"
+    }
+  ],
+  "overrides": {
+    "84CDC378-01DD-42AD-9E34-91DEDE8C394C": "01.02 Setup | Connect Devices"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "18C1EE9B-7660-4DA8-A2CC-5A0B8D8FC7BD",
+  "verticalSpacing": 0
+}

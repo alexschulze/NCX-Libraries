@@ -1,0 +1,116 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A1751E25-1397-459A-8BE5-E270D22B7308",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 351,
+    "x": 12,
+    "y": 218
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Single Scene Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "ABCB1A87-A160-4837-9A2A-CE0010523947",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5C9179DC-5D7D-439B-954E-6F1D572DB6CF_stringValue",
+      "value": "Scene 1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE3165B7-D7F5-4581-91E3-ACEF87692071",
+      "overrideName": "4C8B585B-D5F3-4459-A70E-FA9DA15E0371_symbolID",
+      "value": "C4149855-A19A-4FF2-B8B6-DE957074CF92"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "87E91C80-C8AC-4A26-BD7A-45715E51B972",
+      "overrideName": "04B7FABC-DD2D-4FA7-8341-AC0A3835FD3A_symbolID",
+      "value": "48E656A7-1C2C-438C-92A7-ECE3ED58359E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "501D1E70-44A3-489B-B754-D70642EC7B58",
+      "overrideName": "8A60BC12-3FB8-45BE-AE45-174C8610BBAF/AAD45763-DBE2-4381-945C-85505473EABF_stringValue",
+      "value": "Scene 1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26D5A20B-6597-450C-A70E-D6FE49490A52",
+      "overrideName": "780197C8-BBFF-4837-A6DE-D0D5E3BAF25C_symbolID",
+      "value": "5688D492-A436-47A0-96A3-1A69A947FBB1"
+    }
+  ],
+  "overrides": {
+    "04B7FABC-DD2D-4FA7-8341-AC0A3835FD3A": {
+      "symbolID": "48E656A7-1C2C-438C-92A7-ECE3ED58359E"
+    },
+    "4C8B585B-D5F3-4459-A70E-FA9DA15E0371": {
+      "symbolID": "C4149855-A19A-4FF2-B8B6-DE957074CF92"
+    },
+    "5C9179DC-5D7D-439B-954E-6F1D572DB6CF": "Scene 1",
+    "780197C8-BBFF-4837-A6DE-D0D5E3BAF25C": {
+      "symbolID": "5688D492-A436-47A0-96A3-1A69A947FBB1"
+    },
+    "8A60BC12-3FB8-45BE-AE45-174C8610BBAF": {
+      "AAD45763-DBE2-4381-945C-85505473EABF": "Scene 1"
+    }
+  },
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "B49439CA-4D76-4AC2-B927-EA479828B91C",
+  "userInfo": {
+    "com.zeroheight.plugin": {
+      "zeroheight-component-id": "140079"
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,126 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C25E2815-57C9-429F-9B77-829ED650E59F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 84,
+    "width": 351,
+    "x": 12,
+    "y": 516
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Device Card Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "E58A877E-5B10-4F18-8697-5F91C91FCCE2",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F917B038-D453-47B5-89F5-AAA9728B16CB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9151B173-80EA-407A-96F2-40A253D5D9CD_symbolID",
+      "value": "C87DCF37-CED5-4050-B520-00A9A334960A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5DD85302-8B25-4419-A6C7-76D9B20DDE57_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "98C69774-7A57-47E8-B022-A82A10A6493E_symbolID",
+      "value": "48E656A7-1C2C-438C-92A7-ECE3ED58359E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BD40B16F-C9B7-431D-9030-73DAFCB0583C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D77AF90B-5476-4F0B-BF9E-61FA07297F88_stringValue",
+      "value": "Door / Window Contact 2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E0EA2C9C-076F-459A-8E24-37BF567FDA44_stringValue",
+      "value": "Closed"
+    }
+  ],
+  "overrides": {
+    "5DD85302-8B25-4419-A6C7-76D9B20DDE57": {
+      "symbolID": ""
+    },
+    "9151B173-80EA-407A-96F2-40A253D5D9CD": {
+      "symbolID": "C87DCF37-CED5-4050-B520-00A9A334960A"
+    },
+    "98C69774-7A57-47E8-B022-A82A10A6493E": {
+      "symbolID": "48E656A7-1C2C-438C-92A7-ECE3ED58359E"
+    },
+    "BD40B16F-C9B7-431D-9030-73DAFCB0583C": {
+      "symbolID": ""
+    },
+    "D77AF90B-5476-4F0B-BF9E-61FA07297F88": "Door / Window Contact 2",
+    "E0EA2C9C-076F-459A-8E24-37BF567FDA44": "Closed",
+    "F917B038-D453-47B5-89F5-AAA9728B16CB": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "F4113206-2034-4D56-B997-A293C70464A4",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "imageQuality": 4
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C7C6F1D7-7C26-447B-A597-1F1AA6540E44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C63876F-BD65-4939-AEDA-B58EC7C72C3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F3B7D01D-5ACD-4210-BF3C-3D9BB90B7C5E",
+    "height": 30,
+    "width": 30,
+    "x": 5,
+    "y": 6
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons 6BU / Home",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "316AD4D5-4CB7-45DF-8509-DE45A48809E6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B4FF2E22-3545-412F-AA7C-5EB81450FD03",
+  "verticalSpacing": 0
+}

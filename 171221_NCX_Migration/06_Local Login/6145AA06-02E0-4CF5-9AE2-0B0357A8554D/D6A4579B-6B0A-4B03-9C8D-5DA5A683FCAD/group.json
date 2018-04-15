@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "D6A4579B-6B0A-4B03-9C8D-5DA5A683FCAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 866,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "81577ECE-6BD1-401C-8EF4-18F07FDFDA6E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE9A632C-FD09-45DE-9F32-3FF47D10B29F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "71ECC723-0857-491C-8481-48D551459331"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5BFE0E0B-852C-47ED-A939-24887E3ABFAC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1E73649-C655-4664-A27E-217CA0F796D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81951CF6-00EF-4A2C-8EDA-A887CC2ABB71"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F1F335A-A465-4F37-9317-5C4E0C872018"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1287927F-2386-4D60-9673-C8F1B5717499"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C0211EA-5E7B-46C4-8AB8-7C528BE01D50"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F0538AC-D74B-41CA-9D4D-F11AC21FFD45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C47B979-291C-4BA0-9074-490485C390C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "033E136A-11D0-4A6A-BF1B-8DED0EAE796B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B634704-C07F-4F1F-BB08-FCDEC32C85F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11BAA1C0-67B2-452C-90B4-3A519894A966"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ACA985EF-F8BF-4C10-AF66-5F125AE267B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65829807-18AF-448B-A427-FB7457ED0850"
+    }
+  ],
+  "name": "Group 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

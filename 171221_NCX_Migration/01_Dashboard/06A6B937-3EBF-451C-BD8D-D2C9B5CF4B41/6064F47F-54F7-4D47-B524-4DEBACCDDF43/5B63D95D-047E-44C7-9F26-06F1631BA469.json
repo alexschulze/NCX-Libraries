@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5B63D95D-047E-44C7-9F26-06F1631BA469",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 62,
+    "width": 351,
+    "x": 12,
+    "y": 304
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Check Copy 2",
+  "nameIsFixed": false,
+  "originalObjectID": "C7596B1A-7614-4E9D-83F1-D320D975974C",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8D82521C-D13C-4C8E-90A7-A5EDD04C32DB_stringValue",
+      "value": "Edit Alarm System"
+    }
+  ],
+  "overrides": {
+    "8D82521C-D13C-4C8E-90A7-A5EDD04C32DB": "Edit Alarm System"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 2,
+      "opacity": 1
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D9975307-2EF4-4409-962D-D131F8F4A053",
+  "verticalSpacing": 0
+}

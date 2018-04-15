@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "37DE7029-021D-49BF-B6D7-02A1C51A5BAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 62,
+    "width": 375,
+    "x": 0,
+    "y": 336
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Simple Icon Copy 4",
+  "nameIsFixed": false,
+  "originalObjectID": "E010C254-DEB4-4C39-87B8-8D28AC7FA683",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9331A1F7-30CD-4084-8D06-04B8E92FCE52_stringValue",
+      "value": "Messages"
+    }
+  ],
+  "overrides": {
+    "9331A1F7-30CD-4084-8D06-04B8E92FCE52": "Messages"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7F11B111-8168-49D0-825B-ACCE6B19B478",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A7BA6806-86CB-40B3-AB79-54173C891920",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Subheadline Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "99368459-9F05-4249-8C5A-B3FD3E1F85BF",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "72560700-D8D6-44D8-A8B9-D601FC92E943_stringValue",
+      "value": "Smart Home"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "184B85DC-7E45-427E-BE88-DFA641919682_stringValue",
+      "value": "SmartHome"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "84563715-4FEF-439B-9CFA-655D6D5F7BA0_stringValue",
+      "value": "Local"
+    }
+  ],
+  "overrides": {
+    "184B85DC-7E45-427E-BE88-DFA641919682": "SmartHome",
+    "72560700-D8D6-44D8-A8B9-D601FC92E943": "Smart Home",
+    "84563715-4FEF-439B-9CFA-655D6D5F7BA0": "Local"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A3CE379A-046A-4D4E-9B1F-03320096869F",
+  "verticalSpacing": 0
+}

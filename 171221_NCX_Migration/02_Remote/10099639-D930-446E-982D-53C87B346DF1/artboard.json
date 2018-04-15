@@ -1,0 +1,138 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9607843137254902,
+    "red": 0.9764705882352941
+  },
+  "do_objectID": "10099639-D930-446E-982D-53C87B346DF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1024,
+    "x": 10799,
+    "y": 2252
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9030237A-DE83-4CD8-8C45-EFFFED19A5A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6543E05B-2083-4F17-9009-ADF0A7DAC71D"
+    },
+    {
+      "class": "group",
+      "id": "855FDC35-FFAA-4B29-B96E-5E851EEF1889"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF348DC8-787B-4004-BB2E-024EF7083355"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "57E57BED-DCF7-4CBA-813B-66B726DEB8D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8AB99878-DAD4-479C-BBA2-F34F5C44321D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AAB64DC5-7AF9-4498-8A15-228C60E403D6"
+    },
+    {
+      "class": "group",
+      "id": "022D0243-C25E-4A79-AA1B-D2EC96C771CA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99138AA6-D4E3-4635-9225-F8AA029DF811"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B814972-ABF9-47F5-8752-D31658F4D819"
+    }
+  ],
+  "name": "Remote_Migration_01 Copy 6",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 768,
+    "name": "iPad",
+    "offersLandscapeVariant": 1,
+    "width": 1024
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "8155287E-F267-49A3-BEF9-B4ABA1155421"
+    },
+    "io.magicsketch.mirror": {
+      "included": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

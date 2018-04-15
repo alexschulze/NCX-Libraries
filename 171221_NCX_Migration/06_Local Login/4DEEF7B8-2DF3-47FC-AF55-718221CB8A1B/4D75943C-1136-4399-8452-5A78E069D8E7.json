@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4D75943C-1136-4399-8452-5A78E069D8E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 84.375,
+    "width": 375,
+    "x": 0,
+    "y": 265
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Login / Prefill Help Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "B839FAA4-7492-4EE4-84C8-24D36E2001A1",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DC60C88A-A5B2-4A79-B75D-20DF49521290_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3FA97B4D-1FAC-41A7-8AC7-CFB02A81B9C3_stringValue",
+      "value": "New Device Password"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5C2C2BB0-A5DD-4372-947C-A1F34A9D870F_stringValue",
+      "value": "|"
+    }
+  ],
+  "overrides": {
+    "3FA97B4D-1FAC-41A7-8AC7-CFB02A81B9C3": "New Device Password",
+    "5C2C2BB0-A5DD-4372-947C-A1F34A9D870F": "|",
+    "DC60C88A-A5B2-4A79-B75D-20DF49521290": " "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "35F63469-7E95-4EA8-BC06-F5877F4295D4",
+  "verticalSpacing": 0
+}

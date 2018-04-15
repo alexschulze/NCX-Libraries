@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4298856E-6203-421C-A2C7-6F4057C3C22A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 84,
+    "width": 351,
+    "x": 12,
+    "y": 172
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Grid",
+  "nameIsFixed": false,
+  "originalObjectID": "E58A877E-5B10-4F18-8697-5F91C91FCCE2",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7A08AD57-D390-43CE-B3EE-4A10659749A8_stringValue",
+      "value": "Door Window Contact"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "91411712-E038-404C-8024-5FB151376D74_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "825E9FBB-83C8-4422-95D0-4B17DB38D9C2_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68B6DF52-A5FC-445A-8603-70147BA1C4F3",
+      "overrideName": "E0EA2C9C-076F-459A-8E24-37BF567FDA44_stringValue",
+      "value": "Open"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CC3B01E-03E0-4510-9C9A-0334EA6CD5D1",
+      "overrideName": "BD40B16F-C9B7-431D-9030-73DAFCB0583C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AAF66CCC-ED0C-42D5-BB9F-CE862B5FCDC3",
+      "overrideName": "98C69774-7A57-47E8-B022-A82A10A6493E_symbolID",
+      "value": "AE2B83EE-BAF5-44AF-8C82-632EBFAE88E2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4BFD7ED-FCDC-493F-B5A0-77BECC4551F9",
+      "overrideName": "5DD85302-8B25-4419-A6C7-76D9B20DDE57_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "5DD85302-8B25-4419-A6C7-76D9B20DDE57": {
+      "symbolID": ""
+    },
+    "7A08AD57-D390-43CE-B3EE-4A10659749A8": "Door Window Contact",
+    "825E9FBB-83C8-4422-95D0-4B17DB38D9C2": " ",
+    "91411712-E038-404C-8024-5FB151376D74": " ",
+    "98C69774-7A57-47E8-B022-A82A10A6493E": {
+      "symbolID": "AE2B83EE-BAF5-44AF-8C82-632EBFAE88E2"
+    },
+    "BD40B16F-C9B7-431D-9030-73DAFCB0583C": {
+      "symbolID": ""
+    },
+    "E0EA2C9C-076F-459A-8E24-37BF567FDA44": "Open"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F4113206-2034-4D56-B997-A293C70464A4",
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "ED79DB07-F360-4B5E-A217-8CC965E3D259"
+    }
+  },
+  "verticalSpacing": 0
+}

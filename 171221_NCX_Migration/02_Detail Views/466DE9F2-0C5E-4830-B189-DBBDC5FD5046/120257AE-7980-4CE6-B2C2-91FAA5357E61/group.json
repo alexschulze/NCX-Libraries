@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "120257AE-7980-4CE6-B2C2-91FAA5357E61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 120,
+    "width": 120,
+    "x": 128,
+    "y": 196
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B9EEC85C-B03F-435E-83DD-32275881C79B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D9C7388E-8BD4-4A41-AF53-26748601E7AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4CA2E9C3-DEE7-4A70-8FC2-699DAC2F7417"
+    }
+  ],
+  "name": "doorbell-pressed_graphical",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

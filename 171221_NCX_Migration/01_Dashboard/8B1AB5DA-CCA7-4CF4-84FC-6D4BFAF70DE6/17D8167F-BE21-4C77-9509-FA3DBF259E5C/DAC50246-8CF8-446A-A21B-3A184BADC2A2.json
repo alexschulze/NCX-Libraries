@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DAC50246-8CF8-446A-A21B-3A184BADC2A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 276,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Headlines / Cards / Blue Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "C747F949-D7FB-409C-826E-FC80898CC7A3",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "09109F6E-98EC-43DC-A6DD-F444919450A7_stringValue",
+      "value": "Alarm System activated"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B2FB21C6-E2F8-43BB-B358-90C74FDADDF5_stringValue",
+      "value": "n"
+    }
+  ],
+  "overrides": {
+    "09109F6E-98EC-43DC-A6DD-F444919450A7": "Alarm System activated",
+    "B2FB21C6-E2F8-43BB-B358-90C74FDADDF5": "n"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "602AE1A8-9E36-4D69-81D7-5DBCC2139BD4",
+  "verticalSpacing": 0
+}

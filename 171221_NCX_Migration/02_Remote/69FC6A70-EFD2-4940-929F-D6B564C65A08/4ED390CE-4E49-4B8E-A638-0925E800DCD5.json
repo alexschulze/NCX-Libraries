@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4ED390CE-4E49-4B8E-A638-0925E800DCD5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 375,
+    "x": 0,
+    "y": 294
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / List Copy 3",
+  "nameIsFixed": false,
+  "originalObjectID": "C7596B1A-7614-4E9D-83F1-D320D975974C",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "767BDB29-55FD-41E2-B51A-EF842CA2C370_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EBEDA68F-0516-4ED7-AF7A-CC432CDCF510_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2782BFC0-8C48-442C-82FF-FDDA3638ED04_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EABF7454-7963-4654-8914-5FFB0234A101_stringValue",
+      "value": "Off"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BE79D322-D6D0-47FD-8D01-5ED47C021DCB_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "49EB58D6-30B2-4D53-B2D5-C83DA13A5728_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0633982A-6B4B-4249-B94F-D4A2CC3E9FF2_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DBB39BD2-131C-488E-9945-47D6263DD79D_stringValue",
+      "value": "c"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18220D8D-E6B0-4945-A11D-63FDD11D7DC6",
+      "overrideName": "8D82521C-D13C-4C8E-90A7-A5EDD04C32DB_stringValue",
+      "value": "Own Room"
+    }
+  ],
+  "overrides": {
+    "0633982A-6B4B-4249-B94F-D4A2CC3E9FF2": " ",
+    "2782BFC0-8C48-442C-82FF-FDDA3638ED04": " ",
+    "49EB58D6-30B2-4D53-B2D5-C83DA13A5728": {
+      "symbolID": ""
+    },
+    "767BDB29-55FD-41E2-B51A-EF842CA2C370": " ",
+    "8D82521C-D13C-4C8E-90A7-A5EDD04C32DB": "Own Room",
+    "BE79D322-D6D0-47FD-8D01-5ED47C021DCB": " ",
+    "DBB39BD2-131C-488E-9945-47D6263DD79D": "c",
+    "EABF7454-7963-4654-8914-5FFB0234A101": "Off",
+    "EBEDA68F-0516-4ED7-AF7A-CC432CDCF510": " "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D9975307-2EF4-4409-962D-D131F8F4A053",
+  "verticalSpacing": 0
+}

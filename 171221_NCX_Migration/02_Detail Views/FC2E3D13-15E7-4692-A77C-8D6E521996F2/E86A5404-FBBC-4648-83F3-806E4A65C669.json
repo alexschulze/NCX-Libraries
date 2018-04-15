@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E86A5404-FBBC-4648-83F3-806E4A65C669",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 140,
+    "x": 140,
+    "y": 75
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bottombar / Function Copy 2",
+  "nameIsFixed": false,
+  "originalObjectID": "3EC25E17-A8B0-42F1-88D0-A4764627C520",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EAF2139C-F6C6-4BF4-9225-FEDDAAAD20C1_stringValue",
+      "value": "LIVING RIGHT"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FF52836A-4619-4F85-8DFC-6A8194EC67DE_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "65D262AE-BC2E-4D2D-81FF-F56679EB015A_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "65D262AE-BC2E-4D2D-81FF-F56679EB015A": {
+      "symbolID": ""
+    },
+    "EAF2139C-F6C6-4BF4-9225-FEDDAAAD20C1": "LIVING RIGHT",
+    "FF52836A-4619-4F85-8DFC-6A8194EC67DE": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B145FB0F-41C6-4060-B384-7BE43C901F54",
+  "verticalSpacing": 0
+}

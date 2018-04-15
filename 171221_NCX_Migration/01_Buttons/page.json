@@ -1,0 +1,122 @@
+{
+  "_class": "page",
+  "do_objectID": "598F29FE-DB4F-4810-A27D-677DE04D14D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -450,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D8EAF00A-2F4C-422C-9C96-E3843A8CFBE9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8711EE13-EC23-42B1-9FFA-65425680F2F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5EF03F1D-9A37-4185-B19C-CBD862067A95"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CD8AC50-B7BB-4D43-899C-2A77748370C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0D2F4EA-0ABE-4DAD-90CE-76C1EF5A9A6F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75A85D23-E694-4D07-951D-026A26CA087D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8F7301B-B5F3-4D5B-A55E-EB00D7B36394"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "531B10B6-A2C6-45B3-AABC-75DDE23AE0E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6735B501-A879-433B-A932-63AF902D9B60"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "47E29ACA-0D52-4531-BAA8-A8CC0319F9FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9C6144E-94EF-4DC5-9C88-246BBDD219DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E431E88A-F0E8-455E-8A34-9B2AFA2DAAAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61347B83-5149-4EA7-A14B-058F268989C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B65D84FE-146C-4687-A819-088B49E4C7AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2DFC00AA-5C2F-48A8-957F-BF7E578F553D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E018815-A8FF-4BD2-84A2-3AFC219EA230"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BF9EBD9-47F2-4BC0-85F7-C480D07C8817"
+    }
+  ],
+  "name": "01_Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -339,
+    "guides": [
+    ]
+  }
+}

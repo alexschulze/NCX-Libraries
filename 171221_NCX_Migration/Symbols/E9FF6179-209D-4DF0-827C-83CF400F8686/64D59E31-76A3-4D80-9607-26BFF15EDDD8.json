@@ -1,0 +1,90 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "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"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "64D59E31-76A3-4D80-9607-26BFF15EDDD8",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 312,
+    "x": 12,
+    "y": 19
+  },
+  "glyphBounds": "{{1, 6}, {38, 15}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Label",
+  "nameIsFixed": true,
+  "originalObjectID": "64D59E31-76A3-4D80-9607-26BFF15EDDD8",
+  "resizingConstraint": 11,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "5BA36BB8-2B41-474C-953D-BD7EA6678A3D",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1490196078,
+          "green": 0.1490196078,
+          "red": 0.1490196078
+        },
+        "MSAttributedStringFontAttribute": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAF8QF1RlbGUtR3JvdGVza05vci1SZWd1bGFy0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAO0A8gD9AQYBHAEgAS0BNgE7AU4BUQFkAXYBeQF+AAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAYA="
+        },
+        "paragraphStyle": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGVldYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEwcIESElKy4xNDc6PUBDRklMT1JVJG51bGzUCQoLDA0ODxBaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NfEB9OU1RpZ2h0ZW5pbmdGYWN0b3JGb3JUcnVuY2F0aW9uViRjbGFzc4ACgBEjP6mZmaAAAACAEtISDBMgWk5TLm9iamVjdHOsFBUWFxgZGhscHR4fgAOABYAGgAeACIAJgAqAC4AMgA2ADoAPgBDSDCIjJFpOU0xvY2F0aW9ugAQjQDwAAAAAAADSJicoKVokY2xhc3NuYW1lWCRjbGFzc2VzWU5TVGV4dFRhYqIoKlhOU09iamVjdNIMIiMtgAQjQEwAAAAAAADSDCIjMIAEI0BVAAAAAAAA0gwiIzOABCNAXAAAAAAAANIMIiM2gAQjQGGAAAAAAADSDCIjOYAEI0BlAAAAAAAA0gwiIzyABCNAaIAAAAAAANIMIiM/gAQjQGwAAAAAAADSDCIjQoAEI0BvgAAAAAAA0gwiI0WABCNAcYAAAAAAANIMIiNIgAQjQHNAAAAAAADSDCIjS4AEI0B1AAAAAAAA0iYnTU5XTlNBcnJheaJNKtISDFAgoIAQ0iYnU1RfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNTVSpfEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0VhZVHJvb3SAAQAIABEAGgAjAC0AMgA3AE0AUwBcAGcAdACWAJ0AnwChAKoArACxALwAyQDLAM0AzwDRANMA1QDXANkA2wDdAN8A4QDjAOgA8wD1AP4BAwEOARcBIQEkAS0BMgE0AT0BQgFEAU0BUgFUAV0BYgFkAW0BcgF0AX0BggGEAY0BkgGUAZ0BogGkAa0BsgG0Ab0BwgHEAc0B0gHUAd0B4gHqAe0B8gHzAfUB+gIUAhgCKwI9AkACRQAAAAAAAAIBAAAAAAAAAFoAAAAAAAAAAAAAAAAAAAJH"
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "data": [
+          "Living room",
+          "Bath room",
+          "Bed room",
+          "Kitchen",
+          "Basement",
+          "Garden",
+          "Outdoor"
+        ],
+        "icon": "boat",
+        "index": 12,
+        "preserveOrder": 0,
+        "title": "Rooms",
+        "userDefined": 1
+      }
+    }
+  }
+}

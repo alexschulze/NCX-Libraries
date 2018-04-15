@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8EFCB04F-557D-43BD-BA78-A03415F2691D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 375,
+    "x": 0,
+    "y": 188
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Time Picker Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "6CAF5B9B-F6E9-456D-9E9A-A3CB4C99EB68",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AAB51F52-35E9-403A-885D-8886C5328A25",
+      "overrideName": "76A643B6-10ED-4DEA-B9A9-3546B2B52167_stringValue",
+      "value": "Sunrise (07:45)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6B7961F-DBDC-4616-975F-3EE93CA2ACCA",
+      "overrideName": "53CD2A36-D86E-4BE3-A099-74428EF81EC9_stringValue",
+      "value": "Sundown (17:20)"
+    }
+  ],
+  "overrides": {
+    "53CD2A36-D86E-4BE3-A099-74428EF81EC9": "Sundown (17:20)",
+    "76A643B6-10ED-4DEA-B9A9-3546B2B52167": "Sunrise (07:45)"
+  },
+  "resizingConstraint": 39,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EE7E2053-DBBF-46C7-B962-F734D42B1321",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

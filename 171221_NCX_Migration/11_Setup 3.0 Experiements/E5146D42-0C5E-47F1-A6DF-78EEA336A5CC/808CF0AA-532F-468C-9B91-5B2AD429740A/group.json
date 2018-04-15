@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "808CF0AA-532F-468C-9B91-5B2AD429740A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 668,
+    "width": 376,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "189A51CF-56F5-471D-90DB-58036AE8DCAA"
+    },
+    {
+      "class": "bitmap",
+      "id": "18919D51-6926-4455-9E4B-B62A82A7620F"
+    }
+  ],
+  "name": "Bildschirmfoto 2018-01-02 um 17.12.42",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

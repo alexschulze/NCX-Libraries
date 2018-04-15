@@ -1,0 +1,193 @@
+{
+  "_class": "page",
+  "do_objectID": "70000325-7500-40CC-9060-DE7036335BCE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -557,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "8C25F2DF-D99E-4C30-901A-E165A514F514"
+    },
+    {
+      "class": "artboard",
+      "id": "803CB6EB-4D2F-44A9-AC08-DA91666DF237"
+    },
+    {
+      "class": "artboard",
+      "id": "4E330F61-F998-479D-BA7A-5E93F4B1B9A8"
+    },
+    {
+      "class": "artboard",
+      "id": "5FAED04D-8B00-4593-B3B4-7326B328439B"
+    },
+    {
+      "class": "artboard",
+      "id": "1892A9AF-A6F5-47A2-A9AB-85F75580F6C5"
+    },
+    {
+      "class": "artboard",
+      "id": "A8C0F88D-98B0-4E07-A162-81E01BBD9586"
+    },
+    {
+      "class": "artboard",
+      "id": "6774F5B1-17CE-4145-BD1B-51E32A4F251C"
+    },
+    {
+      "class": "artboard",
+      "id": "F1847744-32A0-4322-BF4D-2CD8C0A33D33"
+    },
+    {
+      "class": "artboard",
+      "id": "14BDF677-EA98-45E4-9DD7-A1CC76E51A39"
+    },
+    {
+      "class": "artboard",
+      "id": "B0C8424D-6C27-4FFA-AB0F-790D62098C9A"
+    },
+    {
+      "class": "artboard",
+      "id": "008ACE8B-B9C1-45F5-AE84-773F43A926E7"
+    },
+    {
+      "class": "artboard",
+      "id": "A23A1773-5E8F-4C7E-B5A7-9B2BCF3E50E6"
+    },
+    {
+      "class": "artboard",
+      "id": "FD964C79-C70A-4257-8962-A97888930CD8"
+    },
+    {
+      "class": "artboard",
+      "id": "1D8F6EC5-5D7D-4232-816F-F1E8773351BC"
+    },
+    {
+      "class": "artboard",
+      "id": "5F943D91-2955-4397-8C03-5EC58940BB03"
+    },
+    {
+      "class": "artboard",
+      "id": "30278B76-885E-4450-8D74-99F5ED010657"
+    },
+    {
+      "class": "artboard",
+      "id": "08E17E9E-B113-48A9-9F25-848C1C32B70A"
+    },
+    {
+      "class": "artboard",
+      "id": "2D459763-EF42-4C77-ADC7-8BF192850AE0"
+    },
+    {
+      "class": "artboard",
+      "id": "3D75BEEF-B57A-48D6-9E4F-BFF711A8AB4F"
+    },
+    {
+      "class": "artboard",
+      "id": "65C78CD5-D434-4D48-BF07-6C0DE63B94C1"
+    },
+    {
+      "class": "artboard",
+      "id": "EF9913AE-D53E-45D8-A881-C0E39CF356C3"
+    },
+    {
+      "class": "artboard",
+      "id": "D6104D11-4FAD-40FB-BD6B-A68BBDB17CE1"
+    },
+    {
+      "class": "artboard",
+      "id": "46266AC6-EC4F-44EE-8A48-80D75191E42D"
+    },
+    {
+      "class": "artboard",
+      "id": "6EC904BD-D5EB-4A77-9301-832161FDC019"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A072DD8B-6FA5-49CF-967C-B0405BCE5A28"
+    },
+    {
+      "class": "artboard",
+      "id": "3FA87EE3-DCF5-4068-8152-6EBF7EA2D327"
+    },
+    {
+      "class": "artboard",
+      "id": "371949C1-3535-4F15-94E8-1ED7542E5F3E"
+    },
+    {
+      "class": "artboard",
+      "id": "3435FFE7-7620-42F7-9348-E031E230D277"
+    },
+    {
+      "class": "artboard",
+      "id": "A1D093A1-CF42-49ED-8B83-E9B9B442DD8B"
+    },
+    {
+      "class": "artboard",
+      "id": "7E97FC31-2DA2-47DD-A140-BC51FD139AA0"
+    },
+    {
+      "class": "artboard",
+      "id": "8F9A1787-613E-421A-808A-C899DE0AADA4"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "05_Conditions/Duration",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -400,
+    "guides": [
+    ]
+  }
+}

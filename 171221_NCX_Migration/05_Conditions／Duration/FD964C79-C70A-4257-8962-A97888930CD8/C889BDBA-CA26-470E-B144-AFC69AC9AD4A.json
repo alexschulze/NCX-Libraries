@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C889BDBA-CA26-470E-B144-AFC69AC9AD4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 349,
+    "x": 13,
+    "y": 465
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Time Picker Copy 2",
+  "nameIsFixed": false,
+  "originalObjectID": "2FD75939-56C5-4E4D-B206-15AB85DE34FE",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A64E7508-6722-4648-9C8A-4466455378A8",
+      "overrideName": "47867D20-4F67-4751-A88B-17CEA3CE59F0_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "47867D20-4F67-4751-A88B-17CEA3CE59F0": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8C98D843-F904-4E72-A1EE-E407986537C1",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

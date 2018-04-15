@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3162191B-5DDD-4F73-B78C-85E262BAD3E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Alerts/One-Button Tipp",
+  "nameIsFixed": false,
+  "originalObjectID": "FC787290-D7EC-4B05-B487-E790E31BD0DE",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "683AC1E4-91E9-4026-BF9A-E7119DE64315_stringValue",
+      "value": "This is your new heating control. you can change the overall temperature and also set the right heating profile."
+    }
+  ],
+  "overrides": {
+    "683AC1E4-91E9-4026-BF9A-E7119DE64315": "This is your new heating control. you can change the overall temperature and also set the right heating profile."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "54869D2B-30CD-4D26-9203-380BF3F064B6",
+  "verticalSpacing": 0
+}

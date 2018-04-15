@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7F0F384E-161C-43C6-B033-3935BFFE9CD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 351,
+    "x": 12,
+    "y": 668
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Secondary",
+  "nameIsFixed": false,
+  "originalObjectID": "5D67B880-A4A2-4532-9160-AA52BBE43AA4",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DAFF4E43-9FA6-48FE-9683-993C574D8383_stringValue",
+      "value": "Delete scene"
+    }
+  ],
+  "overrides": {
+    "DAFF4E43-9FA6-48FE-9683-993C574D8383": "Delete scene"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6DBA1753-C6F8-437A-BDF3-AF9D94BC4C73",
+  "verticalSpacing": 0
+}

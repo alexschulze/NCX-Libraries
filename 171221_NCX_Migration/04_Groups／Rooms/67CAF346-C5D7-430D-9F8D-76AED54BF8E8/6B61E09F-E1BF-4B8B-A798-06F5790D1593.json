@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6B61E09F-E1BF-4B8B-A798-06F5790D1593",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 339,
+    "x": 18,
+    "y": 302
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Device Card Copy 6",
+  "nameIsFixed": false,
+  "originalObjectID": "E58A877E-5B10-4F18-8697-5F91C91FCCE2",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2767BE3-A268-4E75-A699-451396BB9DB2",
+      "overrideName": "A4666EE4-D25D-4E3D-8BAF-7D28C4D90314_symbolID",
+      "value": "A8F8B685-B744-424B-AA41-87B7384F1FB7"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A37B0D91-42BB-48D3-91F8-286285DBC68A",
+      "overrideName": "5DD85302-8B25-4419-A6C7-76D9B20DDE57_symbolID",
+      "value": "8F0B09FA-6845-4DD6-AF0F-39F1317497FC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9766AC35-5C83-4817-B540-BAE30622350F",
+      "overrideName": "BD40B16F-C9B7-431D-9030-73DAFCB0583C_symbolID",
+      "value": "E3A3AA07-8FD9-4A0C-BEA5-703A3514FDFD"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "94484BAB-C859-407A-BA08-A2EF7FB6FDE0",
+      "overrideName": "E0EA2C9C-076F-459A-8E24-37BF567FDA44_stringValue",
+      "value": "Open 80%"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61F572A1-90CA-478F-98BF-57260A4D2D3B",
+      "overrideName": "D77AF90B-5476-4F0B-BF9E-61FA07297F88_stringValue",
+      "value": "Living Room"
+    }
+  ],
+  "overrides": {
+    "5DD85302-8B25-4419-A6C7-76D9B20DDE57": {
+      "symbolID": "8F0B09FA-6845-4DD6-AF0F-39F1317497FC"
+    },
+    "A4666EE4-D25D-4E3D-8BAF-7D28C4D90314": {
+      "symbolID": "A8F8B685-B744-424B-AA41-87B7384F1FB7"
+    },
+    "BD40B16F-C9B7-431D-9030-73DAFCB0583C": {
+      "symbolID": "E3A3AA07-8FD9-4A0C-BEA5-703A3514FDFD"
+    },
+    "D77AF90B-5476-4F0B-BF9E-61FA07297F88": "Living Room",
+    "E0EA2C9C-076F-459A-8E24-37BF567FDA44": "Open 80%"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F4113206-2034-4D56-B997-A293C70464A4",
+  "verticalSpacing": 0
+}

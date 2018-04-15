@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AC1CFE19-55EB-41AF-B270-15918F58C46F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 351,
+    "x": 0,
+    "y": 96
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Device Card",
+  "nameIsFixed": false,
+  "originalObjectID": "E58A877E-5B10-4F18-8697-5F91C91FCCE2",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "98C69774-7A57-47E8-B022-A82A10A6493E_symbolID",
+      "value": "AE2B83EE-BAF5-44AF-8C82-632EBFAE88E2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E320686B-56DF-41B5-980B-4EB65E21FB11",
+      "overrideName": "98C69774-7A57-47E8-B022-A82A10A6493E/155BAD39-01C6-418F-AFB9-7845FBF4082D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ac9a6ff89dce101de809f7555f82f6cdf2b1fab2",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE7A7A91-672D-4716-9591-6545B907D670",
+      "overrideName": "98C69774-7A57-47E8-B022-A82A10A6493E/155BAD39-01C6-418F-AFB9-7845FBF4082D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8f8df4d1586dd3e3832b9a0a66ce912c53d2c85e",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "98C69774-7A57-47E8-B022-A82A10A6493E": {
+      "155BAD39-01C6-418F-AFB9-7845FBF4082D": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8f8df4d1586dd3e3832b9a0a66ce912c53d2c85e",
+        "_ref_class": "MSImageData"
+      },
+      "symbolID": "AE2B83EE-BAF5-44AF-8C82-632EBFAE88E2"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F4113206-2034-4D56-B997-A293C70464A4",
+  "verticalSpacing": 0
+}

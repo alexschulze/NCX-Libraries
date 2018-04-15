@@ -1,0 +1,95 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A58F8C0E-C4D0-4774-BFDA-B518BD3A671E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 351,
+    "x": 337,
+    "y": 135
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "auto_flow_start_if_selector",
+  "nameIsFixed": true,
+  "originalObjectID": "06B1F2AC-4E81-4A40-B242-07973899C16C",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DE81F38F-D3C0-44F3-BD6F-238B8188125F_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "45B5BDEE-904B-4021-ABB5-338307E703DD_symbolID",
+      "value": "AE2B83EE-BAF5-44AF-8C82-632EBFAE88E2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "79F6D723-4158-4B2E-A49B-3C36DFD39A4B_symbolID",
+      "value": "EA6D2E8A-D216-4EE6-A414-D50F7CF24FB8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "925D6FED-48D2-47DC-A738-DAFC7560782B_stringValue",
+      "value": "Select trigger ..."
+    }
+  ],
+  "overrides": {
+    "45B5BDEE-904B-4021-ABB5-338307E703DD": {
+      "symbolID": "AE2B83EE-BAF5-44AF-8C82-632EBFAE88E2"
+    },
+    "79F6D723-4158-4B2E-A49B-3C36DFD39A4B": {
+      "symbolID": "EA6D2E8A-D216-4EE6-A414-D50F7CF24FB8"
+    },
+    "925D6FED-48D2-47DC-A738-DAFC7560782B": "Select trigger ...",
+    "DE81F38F-D3C0-44F3-BD6F-238B8188125F": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "59FE3508-E98E-447F-AC54-9CF7A4F6980B",
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "B777DC13-D59E-4B0F-B61E-EE8D75FDFDEE"
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

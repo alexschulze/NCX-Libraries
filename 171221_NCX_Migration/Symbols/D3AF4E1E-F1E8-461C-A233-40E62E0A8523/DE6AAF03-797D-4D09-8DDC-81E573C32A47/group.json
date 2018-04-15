@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "DE6AAF03-797D-4D09-8DDC-81E573C32A47",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 13,
+    "x": 38,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "AFCFC617-96BE-4418-B54C-C687C98C9954"
+    }
+  ],
+  "name": "Cell Elements/Off Switch",
+  "nameIsFixed": false,
+  "originalObjectID": "DE6AAF03-797D-4D09-8DDC-81E573C32A47",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

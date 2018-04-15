@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3D316065-F246-484A-9AF0-DD72746D6174",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A8267B84-6451-4659-A604-0C251A4D9DDD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "9109166B-3561-4F38-B058-8CCE74341833",
+    "do_objectID": "7D231FBD-6705-456A-A62B-BD6ADB014F50"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5E9B2E88-CC5A-44C6-A1D9-EC6BF7E0FDA7",
+    "height": 48,
+    "width": 290,
+    "x": 12,
+    "y": 88
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Pane / Dropdown Big",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6261FD89-9342-47EC-B4BD-3785A2C4A3D1_stringValue",
+      "value": "As long as ..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "94081D0A-39E4-48FE-A507-685259FD0CB6",
+      "overrideName": "800B02D8-9962-4FDF-BE69-1AE21388DAE7_symbolID",
+      "value": "33C19390-DAFE-487F-AAE8-0FE4B71C2BE2"
+    }
+  ],
+  "overrides": {
+    "6261FD89-9342-47EC-B4BD-3785A2C4A3D1": "As long as ...",
+    "800B02D8-9962-4FDF-BE69-1AE21388DAE7": {
+      "symbolID": "33C19390-DAFE-487F-AAE8-0FE4B71C2BE2"
+    }
+  },
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB6613FC-2B63-4D42-ACD9-6487D90B9517",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7213934C-98E5-4098-B7ED-CDC958C7A148",
+  "verticalSpacing": 0
+}

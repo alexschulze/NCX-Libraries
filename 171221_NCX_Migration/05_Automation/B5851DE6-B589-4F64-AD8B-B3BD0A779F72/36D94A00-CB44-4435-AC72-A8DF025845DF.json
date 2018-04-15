@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "36D94A00-CB44-4435-AC72-A8DF025845DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "69933737-D988-43D4-9809-BE650F7778CF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85CBAA23-5A5F-4318-AE8C-70A2C18C79D2",
+    "height": 82,
+    "width": 351,
+    "x": 12,
+    "y": 135
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Device Card",
+  "nameIsFixed": false,
+  "originalObjectID": "E58A877E-5B10-4F18-8697-5F91C91FCCE2",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "98C69774-7A57-47E8-B022-A82A10A6493E_symbolID",
+      "value": "AE2B83EE-BAF5-44AF-8C82-632EBFAE88E2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5AC67DA0-FBA9-464C-B6D9-A9EC21C4778D_symbolID",
+      "value": "D142821C-5657-4C75-92A1-E4600B1FEC87"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D77AF90B-5476-4F0B-BF9E-61FA07297F88_stringValue",
+      "value": "Door Window Contact 1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E0EA2C9C-076F-459A-8E24-37BF567FDA44_stringValue",
+      "value": "Is opened"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A8391CA2-CB81-48A4-BB01-FD2D9CBA82AE",
+      "overrideName": "5DD85302-8B25-4419-A6C7-76D9B20DDE57_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5023FF9-E2D0-47D1-B6D4-35DCF2EEF97F",
+      "overrideName": "BD40B16F-C9B7-431D-9030-73DAFCB0583C_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "5AC67DA0-FBA9-464C-B6D9-A9EC21C4778D": {
+      "symbolID": "D142821C-5657-4C75-92A1-E4600B1FEC87"
+    },
+    "5DD85302-8B25-4419-A6C7-76D9B20DDE57": {
+      "symbolID": ""
+    },
+    "98C69774-7A57-47E8-B022-A82A10A6493E": {
+      "symbolID": "AE2B83EE-BAF5-44AF-8C82-632EBFAE88E2"
+    },
+    "BD40B16F-C9B7-431D-9030-73DAFCB0583C": {
+      "symbolID": ""
+    },
+    "D77AF90B-5476-4F0B-BF9E-61FA07297F88": "Door Window Contact 1",
+    "E0EA2C9C-076F-459A-8E24-37BF567FDA44": "Is opened"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7CF5A141-F128-4D8F-88CF-28B80FA8E69E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F4113206-2034-4D56-B997-A293C70464A4",
+  "verticalSpacing": 0
+}

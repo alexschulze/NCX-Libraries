@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E7CB9E59-DAA2-40E7-8FC8-C534DFA55A50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 375,
+    "x": 0,
+    "y": 273
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Device Card Single Dark Copy 6",
+  "nameIsFixed": false,
+  "originalObjectID": "ABCB1A87-A160-4837-9A2A-CE0010523947",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4C8B585B-D5F3-4459-A70E-FA9DA15E0371_symbolID",
+      "value": "E3A3AA07-8FD9-4A0C-BEA5-703A3514FDFD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "09319C86-2E45-4FBB-95ED-8A63B1B5CBE5_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "04B7FABC-DD2D-4FA7-8341-AC0A3835FD3A_symbolID",
+      "value": "7FB3F464-4360-4CE2-B0AD-9DEE4E96122A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8A60BC12-3FB8-45BE-AE45-174C8610BBAF/AAD45763-DBE2-4381-945C-85505473EABF_stringValue",
+      "value": "My WiFi"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "780197C8-BBFF-4837-A6DE-D0D5E3BAF25C_symbolID",
+      "value": "5B8942EE-DC79-4663-B23C-6500C1C0E2EB"
+    }
+  ],
+  "overrides": {
+    "04B7FABC-DD2D-4FA7-8341-AC0A3835FD3A": {
+      "symbolID": "7FB3F464-4360-4CE2-B0AD-9DEE4E96122A"
+    },
+    "09319C86-2E45-4FBB-95ED-8A63B1B5CBE5": {
+      "symbolID": ""
+    },
+    "4C8B585B-D5F3-4459-A70E-FA9DA15E0371": {
+      "symbolID": "E3A3AA07-8FD9-4A0C-BEA5-703A3514FDFD"
+    },
+    "780197C8-BBFF-4837-A6DE-D0D5E3BAF25C": {
+      "symbolID": "5B8942EE-DC79-4663-B23C-6500C1C0E2EB"
+    },
+    "8A60BC12-3FB8-45BE-AE45-174C8610BBAF": {
+      "AAD45763-DBE2-4381-945C-85505473EABF": "My WiFi"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B49439CA-4D76-4AC2-B927-EA479828B91C",
+  "verticalSpacing": 0
+}

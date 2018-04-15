@@ -1,0 +1,93 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4F7D54FD-8FC4-4FC3-8394-73E2F57C4E0E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 375,
+    "x": 0,
+    "y": 400
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Device Card Simple",
+  "nameIsFixed": false,
+  "originalObjectID": "DD0AD7EB-B387-4470-B419-5F6030FECED8",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "912B2446-8C3D-44B3-ACFF-F078A631F483",
+      "overrideName": "55BD6131-4D12-4C04-92D6-09EE708CEC18_symbolID",
+      "value": "23BDAD5F-B7D4-4D61-80F6-A748DEA32ED5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D34B3DAD-73BC-4C24-9C51-56EF5C95AD7A",
+      "overrideName": "322A0D89-72C6-4372-9DAC-2CAA98D5C25A_symbolID",
+      "value": "B7027D9A-B15F-4943-9CF9-75DBC14F9B07"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "63F29875-BD48-46F2-84FC-8581CF823949",
+      "overrideName": "6F15122C-CE3C-4C05-A628-7F91E23A774C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C31CE787-4D7F-4C8D-AEC3-1B29728008DA",
+      "overrideName": "084B78EA-556B-4D27-BC84-33DDD46E3548_stringValue",
+      "value": "Room"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "267D40A6-5B38-4055-84FB-F9BCEB1AB887",
+      "overrideName": "17B57C1F-A2D0-45D3-A495-0546B00E96A2_stringValue",
+      "value": "No Room"
+    }
+  ],
+  "overrides": {
+    "084B78EA-556B-4D27-BC84-33DDD46E3548": "Room",
+    "17B57C1F-A2D0-45D3-A495-0546B00E96A2": "No Room",
+    "322A0D89-72C6-4372-9DAC-2CAA98D5C25A": {
+      "symbolID": "B7027D9A-B15F-4943-9CF9-75DBC14F9B07"
+    },
+    "55BD6131-4D12-4C04-92D6-09EE708CEC18": {
+      "symbolID": "23BDAD5F-B7D4-4D61-80F6-A748DEA32ED5"
+    },
+    "6F15122C-CE3C-4C05-A628-7F91E23A774C": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A0842DE9-5783-4DAD-9DF2-510464B69C92",
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "F6F52DD1-E81E-4CD9-B040-D321C9AE3CFE"
+    }
+  },
+  "verticalSpacing": 0
+}

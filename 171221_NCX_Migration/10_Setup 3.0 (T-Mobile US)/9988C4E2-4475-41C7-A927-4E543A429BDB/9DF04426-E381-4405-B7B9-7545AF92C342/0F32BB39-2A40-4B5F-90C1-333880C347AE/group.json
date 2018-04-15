@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "0F32BB39-2A40-4B5F-90C1-333880C347AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 139,
+    "width": 200,
+    "x": 0.2504819577698072,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5943548A-84D5-4355-A112-5B6165F0B1AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1B73DBD-9CE4-4C26-9A47-DE00A55CA8B5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "53FA26A9-AEE7-48F6-818B-C62C4ED3B1C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E24C805-3E25-4344-A6FE-30B3E5EBC705"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "25963A58-29D5-4011-9797-2F60E20AEE22"
+    }
+  ],
+  "name": "QIVICON Home Base 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

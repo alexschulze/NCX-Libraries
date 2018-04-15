@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ED0A67F1-2541-41E7-A4FF-62AB9D05F1E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 409,
+    "x": 2802,
+    "y": 15556
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Charts / New Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8EFB445-896D-447B-B253-615C0F0ADB67",
+      "overrideName": "BEFA4807-8AF4-41E3-91C9-3F89F3590BFE_stringValue",
+      "value": "early DRAFT"
+    }
+  ],
+  "overrides": {
+    "BEFA4807-8AF4-41E3-91C9-3F89F3590BFE": "early DRAFT"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F3786DCB-1FB7-4F28-BBEB-0587D584C40A",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "91E00E04-30A8-4782-935C-A821F8549000",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Alerts/One-Button",
+  "nameIsFixed": false,
+  "originalObjectID": "AC2C54DB-EEFB-4507-B224-54E3F8B7B7AF",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A4298522-3771-4648-B780-6B3E1A72F0A8_stringValue",
+      "value": "Bitte beantworten Sie die mit * markierten Fragen."
+    }
+  ],
+  "overrides": {
+    "A4298522-3771-4648-B780-6B3E1A72F0A8": "Bitte beantworten Sie die mit * markierten Fragen."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3E41C326-BB81-4D62-9217-0FB5497C3E9D",
+  "verticalSpacing": 0
+}

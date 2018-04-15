@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9F9F0410-E814-4DD0-B4C4-914EF11A937F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 188,
+    "x": 0,
+    "y": 618
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bottombar / Function",
+  "nameIsFixed": false,
+  "originalObjectID": "4A935520-18EE-405E-8440-6B852D292E0E",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "573C4717-8F06-4838-809F-D8B450BDA2A6_stringValue",
+      "value": "My Home"
+    }
+  ],
+  "overrides": {
+    "573C4717-8F06-4838-809F-D8B450BDA2A6": "My Home"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C96C2E3E-E1FF-4FB0-8A5B-A1A482C68AEF",
+  "verticalSpacing": 0
+}

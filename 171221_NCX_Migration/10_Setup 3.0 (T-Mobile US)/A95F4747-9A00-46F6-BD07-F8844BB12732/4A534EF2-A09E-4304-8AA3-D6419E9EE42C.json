@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4A534EF2-A09E-4304-8AA3-D6419E9EE42C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 362,
+    "x": 6,
+    "y": 6
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "labels/label copy 6",
+  "nameIsFixed": false,
+  "originalObjectID": "51B24918-36AF-4E03-886C-55661B342435",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "84CDC378-01DD-42AD-9E34-91DEDE8C394C_stringValue",
+      "value": "01.03 Setup | Alarm System"
+    }
+  ],
+  "overrides": {
+    "84CDC378-01DD-42AD-9E34-91DEDE8C394C": "01.03 Setup | Alarm System"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "18C1EE9B-7660-4DA8-A2CC-5A0B8D8FC7BD",
+  "verticalSpacing": 0
+}

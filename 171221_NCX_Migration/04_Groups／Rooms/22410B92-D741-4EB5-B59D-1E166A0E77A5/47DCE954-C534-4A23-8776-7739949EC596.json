@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "47DCE954-C534-4A23-8776-7739949EC596",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 153,
+    "width": 375,
+    "x": 0,
+    "y": 75
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dialog / Expanded",
+  "nameIsFixed": false,
+  "originalObjectID": "5DC5CD49-065B-4F57-A871-288AB6159826",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "ECA741B4-BC6D-4A0E-9A6D-7F9D969C1BAE/5E7C108D-3AF0-4AD6-850C-C3E26F566226_stringValue",
+      "value": "Create a group"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8DEB3D3D-C989-43AC-8C6B-B3009C724334_stringValue",
+      "value": "X"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2DFB0ADC-AFAC-4F54-BD6A-B90DA522F490_stringValue",
+      "value": "Control multiple devices at once and create a group of same devices."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "09B9316E-DE6A-4947-9E6E-DAC1B57571E7_stringValue",
+      "value": "Do you know groups?"
+    }
+  ],
+  "overrides": {
+    "09B9316E-DE6A-4947-9E6E-DAC1B57571E7": "Do you know groups?",
+    "2DFB0ADC-AFAC-4F54-BD6A-B90DA522F490": "Control multiple devices at once and create a group of same devices.",
+    "8DEB3D3D-C989-43AC-8C6B-B3009C724334": "X",
+    "ECA741B4-BC6D-4A0E-9A6D-7F9D969C1BAE": {
+      "5E7C108D-3AF0-4AD6-850C-C3E26F566226": "Create a group"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ED5406E3-3EE4-4D91-90BC-009A2AE07A87",
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "C37F3850-2E93-4D35-801C-60D6CCCAF763"
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8283DA26-40F6-4410-A6EB-5007A160789D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 63,
+    "width": 376,
+    "x": 6,
+    "y": 6
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "labels/label copy 6",
+  "nameIsFixed": false,
+  "originalObjectID": "51B24918-36AF-4E03-886C-55661B342435",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "84CDC378-01DD-42AD-9E34-91DEDE8C394C_stringValue",
+      "value": "T-Mobile US Registration\nProcess"
+    }
+  ],
+  "overrides": {
+    "84CDC378-01DD-42AD-9E34-91DEDE8C394C": "T-Mobile US Registration\nProcess"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "18C1EE9B-7660-4DA8-A2CC-5A0B8D8FC7BD",
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "95E6DBD7-1629-451E-86A3-6C113F32E8BC"
+    }
+  },
+  "verticalSpacing": 0
+}

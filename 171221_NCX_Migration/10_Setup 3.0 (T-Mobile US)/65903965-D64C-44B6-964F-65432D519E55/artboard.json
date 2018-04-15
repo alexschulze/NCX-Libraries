@@ -1,0 +1,144 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1725490196078431,
+    "green": 0.7098039215686275,
+    "red": 0.4745098039215686
+  },
+  "do_objectID": "65903965-D64C-44B6-964F-65432D519E55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 3909,
+    "y": 7600
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8EC4690B-E060-4DC8-9045-0DCE309959A4"
+    },
+    {
+      "class": "group",
+      "id": "D0AA4475-AD19-432D-AAED-253C3DD1AE63"
+    },
+    {
+      "class": "group",
+      "id": "AE3F6F68-5845-4212-A117-9BED293452CA"
+    },
+    {
+      "class": "group",
+      "id": "963B76C9-4699-4C1F-9D30-D1F3F691A2F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F684F282-2EEC-4296-AC27-9269BBCE4E8A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED8F619A-0A9F-433C-99A8-6E6BCE6EA061"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 0,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 24,
+    "gutterWidth": 592,
+    "guttersOutside": false,
+    "horizontalOffset": 24,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 592
+  },
+  "name": "Login HB2 Copy 4",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "65903965-D64C-44B6-964F-65432D519E55"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 127,
+    "guides": [
+      480
+    ]
+  }
+}

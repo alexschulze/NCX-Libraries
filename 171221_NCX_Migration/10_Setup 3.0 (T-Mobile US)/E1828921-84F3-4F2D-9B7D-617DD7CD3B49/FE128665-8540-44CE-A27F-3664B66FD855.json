@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FE128665-8540-44CE-A27F-3664B66FD855",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 19,
+    "y": 286
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Indicator / Process Step Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "156162CD-2E77-483D-B38A-CADB6F9DF6CD",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9F177339-7117-4255-B286-71D71DDE0D24_stringValue",
+      "value": "2"
+    }
+  ],
+  "overrides": {
+    "9F177339-7117-4255-B286-71D71DDE0D24": "2"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "46A343EA-17FF-41C7-B3D2-5058401D2C3F",
+  "verticalSpacing": 0
+}

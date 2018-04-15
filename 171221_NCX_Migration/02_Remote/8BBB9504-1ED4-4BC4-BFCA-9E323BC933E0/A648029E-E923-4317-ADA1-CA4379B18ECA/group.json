@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "do_objectID": "A648029E-E923-4317-ADA1-CA4379B18ECA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 564,
+    "width": 993,
+    "x": 16,
+    "y": 96
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D714028F-0988-47FD-89DB-2C3783857116"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07F8C913-D848-43E5-A386-C10D8AA9F2D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8F37F11F-E6D5-43B4-9559-FFB4278177F3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DC4398B-5B84-4F7B-A329-0F5CFA3E45C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA69E03D-36BE-4A16-97CE-F4EE9B8CFE04"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E366061-1C13-40FC-BD8D-7A168D9EBE47"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BB0AC06-72F9-42C1-AC10-E065466C80BC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE9009B5-E5E3-4004-9A33-38D750044F77"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E4D88DF-1FC4-4152-9ACB-EF7C737E45E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE18D922-4687-410B-92CA-45DF6B17FA28"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2AECB8CC-DBCA-4DB0-AD10-475512E4AED3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A1EF8DC-2A4C-47BD-B62D-2931657EA457"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "313B87B1-F342-4950-910A-8C19E6245D41"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE775D0A-C8B9-4A64-A857-09C19EA559F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA3236B3-1950-4FDD-BE11-A8B1DC7DD659"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "551787F1-87D0-4E68-BC9C-A96468B24DB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B274CC07-BDE1-475C-A14C-0991F01989DA"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

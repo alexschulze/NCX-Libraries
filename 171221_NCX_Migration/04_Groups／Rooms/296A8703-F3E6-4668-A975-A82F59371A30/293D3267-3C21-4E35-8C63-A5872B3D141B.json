@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "293D3267-3C21-4E35-8C63-A5872B3D141B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 258,
+    "x": 59,
+    "y": 467
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Secondary",
+  "nameIsFixed": false,
+  "originalObjectID": "0DE52293-C789-427B-9D31-DEFE8A84E981",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BD5EFF56-7E56-4146-BFEB-2F1FC978BBDF_stringValue",
+      "value": "Add/ Remove Devices"
+    }
+  ],
+  "overrides": {
+    "BD5EFF56-7E56-4146-BFEB-2F1FC978BBDF": "Add/ Remove Devices"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D94C0442-7434-4A69-B1E9-FC011E33BFBB",
+  "verticalSpacing": 0
+}

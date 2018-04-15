@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "982CB174-392D-4DE7-97FE-522CA64D8E4F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 62,
+    "width": 375,
+    "x": 0,
+    "y": 519
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Lable Input",
+  "nameIsFixed": false,
+  "originalObjectID": "7C5CA535-0690-4687-8EE9-AD699AA17196",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5F21BF0-5C2D-4082-A973-9A3901239F92_stringValue",
+      "value": "Zwischen"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1295626F-EE48-46E5-9A29-43BB3242B261/31058FA8-D0DD-428F-A938-6A537D19B00A_stringValue",
+      "value": "19:00"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7ADC78F2-227E-4EF1-BABC-3BD85B117DA1/31058FA8-D0DD-428F-A938-6A537D19B00A_stringValue",
+      "value": "23:00"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CE161FBD-372B-4ECE-AEDA-9FDF64BDB4C2",
+      "overrideName": "7ADC78F2-227E-4EF1-BABC-3BD85B117DA1/41F60FFD-3D34-4092-8FB2-7A85DFDE0311_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8C9746C-0B0D-44A1-BCFD-6A6BA7A66DB4",
+      "overrideName": "1295626F-EE48-46E5-9A29-43BB3242B261/41F60FFD-3D34-4092-8FB2-7A85DFDE0311_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "1295626F-EE48-46E5-9A29-43BB3242B261": {
+      "31058FA8-D0DD-428F-A938-6A537D19B00A": "19:00",
+      "41F60FFD-3D34-4092-8FB2-7A85DFDE0311": {
+        "symbolID": ""
+      }
+    },
+    "7ADC78F2-227E-4EF1-BABC-3BD85B117DA1": {
+      "31058FA8-D0DD-428F-A938-6A537D19B00A": "23:00",
+      "41F60FFD-3D34-4092-8FB2-7A85DFDE0311": {
+        "symbolID": ""
+      }
+    },
+    "F5F21BF0-5C2D-4082-A973-9A3901239F92": "Zwischen"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CD8A8BEC-6C71-43B0-9F26-A9F627FE510A",
+  "verticalSpacing": 0
+}

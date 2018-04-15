@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9943D99F-3B67-404C-A53A-6AEF635668F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 351,
+    "x": 12,
+    "y": 199
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Device Card Copy 2",
+  "nameIsFixed": false,
+  "originalObjectID": "E58A877E-5B10-4F18-8697-5F91C91FCCE2",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC5303D2-D055-4F7E-A1CA-49609E85DF36",
+      "overrideName": "A4666EE4-D25D-4E3D-8BAF-7D28C4D90314_symbolID",
+      "value": "02FE33C2-A0DE-409E-BD38-1D1BC2D1D26B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF8C3CFE-100D-4ED4-A0FD-D0469C6091CA",
+      "overrideName": "5DD85302-8B25-4419-A6C7-76D9B20DDE57_symbolID",
+      "value": "8F0B09FA-6845-4DD6-AF0F-39F1317497FC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F178681-0D9A-44B0-A4DF-90BFBE8A217A",
+      "overrideName": "BD40B16F-C9B7-431D-9030-73DAFCB0583C_symbolID",
+      "value": "E3A3AA07-8FD9-4A0C-BEA5-703A3514FDFD"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EFE688A2-3EAF-4D04-91F1-9042895A4CD1",
+      "overrideName": "E0EA2C9C-076F-459A-8E24-37BF567FDA44_stringValue",
+      "value": "On | 100%"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "21C3CB46-001A-44F0-9FA0-D840F08FF743",
+      "overrideName": "D77AF90B-5476-4F0B-BF9E-61FA07297F88_stringValue",
+      "value": "Philips Hue Bulb"
+    }
+  ],
+  "overrides": {
+    "5DD85302-8B25-4419-A6C7-76D9B20DDE57": {
+      "symbolID": "8F0B09FA-6845-4DD6-AF0F-39F1317497FC"
+    },
+    "A4666EE4-D25D-4E3D-8BAF-7D28C4D90314": {
+      "symbolID": "02FE33C2-A0DE-409E-BD38-1D1BC2D1D26B"
+    },
+    "BD40B16F-C9B7-431D-9030-73DAFCB0583C": {
+      "symbolID": "E3A3AA07-8FD9-4A0C-BEA5-703A3514FDFD"
+    },
+    "D77AF90B-5476-4F0B-BF9E-61FA07297F88": "Philips Hue Bulb",
+    "E0EA2C9C-076F-459A-8E24-37BF567FDA44": "On | 100%"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F4113206-2034-4D56-B997-A293C70464A4",
+  "verticalSpacing": 0
+}

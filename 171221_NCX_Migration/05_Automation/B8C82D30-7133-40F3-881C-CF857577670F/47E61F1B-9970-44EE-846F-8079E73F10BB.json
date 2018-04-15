@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "47E61F1B-9970-44EE-846F-8079E73F10BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C3088F9B-0D3B-4D44-8BF4-D27474269A84",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28C4CA45-3518-40C9-A6F5-56AC3CC16F44",
+    "height": 42,
+    "width": 351,
+    "x": 12,
+    "y": 613
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Secondary Black",
+  "nameIsFixed": false,
+  "originalObjectID": "5D67B880-A4A2-4532-9160-AA52BBE43AA4",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DAFF4E43-9FA6-48FE-9683-993C574D8383_stringValue",
+      "value": "Delete Automation"
+    }
+  ],
+  "overrides": {
+    "DAFF4E43-9FA6-48FE-9683-993C574D8383": "Delete Automation"
+  },
+  "resizingConstraint": 39,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "630CEC6E-86F5-40DB-AF69-08A16B14F111",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6DBA1753-C6F8-437A-BDF3-AF9D94BC4C73",
+  "verticalSpacing": 0
+}

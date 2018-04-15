@@ -1,0 +1,84 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "763D0B4E-C7D5-431E-B5FC-DDCF9F1E773B",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "F1C5A039-00A6-44E1-89AC-8AA8FCB06839",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1CF61EA3-116B-424C-8BA0-C76FB9A4AF47",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D37B66A-D479-45A5-A06B-CE390FC6915B",
+    "height": 288,
+    "width": 288,
+    "x": 425,
+    "y": 2146
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3B3BE9E9-F31C-4EF1-8132-B00F6C2DB2FB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8A971E06-FD0B-4F1F-8B3A-76CC4BDBB9A1"
+    }
+  ],
+  "name": "automation_six",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E861D73-9E2B-46C4-A5F1-D5A9F47B8D43",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F1233AC0-3DCD-4C44-AF37-EB8436EE99F5",
+    "guides": [
+    ]
+  }
+}

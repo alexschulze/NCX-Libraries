@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "BBDDD7BE-C6C2-49A3-99AC-D35F2DC355E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 300,
+    "x": 37,
+    "y": 89
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "484AC343-DB79-4C0F-A157-D418C4507E34"
+    },
+    {
+      "class": "group",
+      "id": "92505BA2-84CD-4179-B9CC-ED97F899335C"
+    }
+  ],
+  "name": "Devices / Device Card Copy 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

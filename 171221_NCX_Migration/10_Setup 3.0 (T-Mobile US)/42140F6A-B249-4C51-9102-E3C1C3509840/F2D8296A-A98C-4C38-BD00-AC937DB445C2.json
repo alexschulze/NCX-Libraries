@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F2D8296A-A98C-4C38-BD00-AC937DB445C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 62,
+    "width": 284,
+    "x": 0,
+    "y": 129
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Menu Icon Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "CA056B3C-FA81-4EE3-907E-971B79EEC9FD",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F1C607C1-543A-4135-8229-E4F4F19D3BAC_stringValue",
+      "value": "Remote Control"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95CB111B-34A4-4EE7-9B46-DB87771565A7",
+      "overrideName": "3B4B87AD-682E-4FB5-B023-95504DCE0C5C_symbolID",
+      "value": "5901CFEB-2AFD-431D-8534-3457B7A3E41A"
+    }
+  ],
+  "overrides": {
+    "3B4B87AD-682E-4FB5-B023-95504DCE0C5C": {
+      "symbolID": "5901CFEB-2AFD-431D-8534-3457B7A3E41A"
+    },
+    "F1C607C1-543A-4135-8229-E4F4F19D3BAC": "Remote Control"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FD996CED-6901-4C8F-9F28-E73704336A61",
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "FF338D9C-64A0-427E-B21E-49DACF6B7495"
+    }
+  },
+  "verticalSpacing": 0
+}

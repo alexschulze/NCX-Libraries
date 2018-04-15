@@ -1,0 +1,70 @@
+{
+  "_class": "page",
+  "do_objectID": "0F3FAB77-89C4-473A-8564-0ADD0D6B916F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -450,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "603B05D3-C4C1-48F3-A803-61B4AC035AAB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4A221AD-60B7-473D-9E71-D02E9A9EE345"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E0112D8-FA27-4EA3-A6F0-763E6A4985CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15849C79-A1CE-4584-9968-8E4D18912CC3"
+    }
+  ],
+  "name": "04_Pagination",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -339,
+    "guides": [
+    ]
+  }
+}

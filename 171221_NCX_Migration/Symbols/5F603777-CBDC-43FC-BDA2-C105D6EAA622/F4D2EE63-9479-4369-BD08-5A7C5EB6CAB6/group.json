@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "F4D2EE63-9479-4369-BD08-5A7C5EB6CAB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 144,
+    "width": 144,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2E3A515A-16F9-4E58-AC45-3DBE433CE21B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D0F1DBB9-0D87-4164-89E6-38043F93A58F"
+    }
+  ],
+  "name": "power-plug_outline",
+  "nameIsFixed": false,
+  "originalObjectID": "F4D2EE63-9479-4369-BD08-5A7C5EB6CAB6",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

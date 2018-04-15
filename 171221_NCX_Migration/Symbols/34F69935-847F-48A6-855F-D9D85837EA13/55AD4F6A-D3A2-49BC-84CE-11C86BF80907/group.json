@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "55AD4F6A-D3A2-49BC-84CE-11C86BF80907",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 143.0399932861328,
+    "width": 143.9999932410733,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "ECDAC351-E846-49E1-BDA8-ABDBBE6AE768"
+    }
+  ],
+  "name": "clock_graphical",
+  "nameIsFixed": false,
+  "originalObjectID": "55AD4F6A-D3A2-49BC-84CE-11C86BF80907",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

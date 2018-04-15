@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4A9B9FEC-F285-422E-B511-C9D5BDB099B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 62,
+    "width": 375,
+    "x": 0,
+    "y": 457
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Lable Input Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "C7596B1A-7614-4E9D-83F1-D320D975974C",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8D82521C-D13C-4C8E-90A7-A5EDD04C32DB_stringValue",
+      "value": "Am Montag"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1295626F-EE48-46E5-9A29-43BB3242B261/31058FA8-D0DD-428F-A938-6A537D19B00A_stringValue",
+      "value": "19:00"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7ADC78F2-227E-4EF1-BABC-3BD85B117DA1/31058FA8-D0DD-428F-A938-6A537D19B00A_stringValue",
+      "value": "23:00"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8D1339C1-72B2-4F80-AF12-9A6560E63503",
+      "overrideName": "169E1F4D-3C0C-4F14-95CA-CDC8B273A9B3_symbolID",
+      "value": "958C75E7-8318-44C9-8BA9-9E15A5DB6314"
+    }
+  ],
+  "overrides": {
+    "1295626F-EE48-46E5-9A29-43BB3242B261": {
+      "31058FA8-D0DD-428F-A938-6A537D19B00A": "19:00"
+    },
+    "169E1F4D-3C0C-4F14-95CA-CDC8B273A9B3": {
+      "symbolID": "958C75E7-8318-44C9-8BA9-9E15A5DB6314"
+    },
+    "7ADC78F2-227E-4EF1-BABC-3BD85B117DA1": {
+      "31058FA8-D0DD-428F-A938-6A537D19B00A": "23:00"
+    },
+    "8D82521C-D13C-4C8E-90A7-A5EDD04C32DB": "Am Montag"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D9975307-2EF4-4409-962D-D131F8F4A053",
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "1FFE71A1-C617-4AB4-990C-0577662AD8FA"
+    }
+  },
+  "verticalSpacing": 0
+}

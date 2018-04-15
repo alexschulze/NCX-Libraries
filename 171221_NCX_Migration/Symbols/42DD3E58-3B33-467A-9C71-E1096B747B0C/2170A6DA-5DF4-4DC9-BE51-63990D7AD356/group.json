@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "2170A6DA-5DF4-4DC9-BE51-63990D7AD356",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 144,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FD11AD7C-2124-4561-933C-6E33DB7C7D46"
+    },
+    {
+      "class": "group",
+      "id": "32E942D3-5EB8-443C-9A35-009A59C7CD9D"
+    }
+  ],
+  "name": "thermostat_graphical",
+  "nameIsFixed": false,
+  "originalObjectID": "2170A6DA-5DF4-4DC9-BE51-63990D7AD356",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

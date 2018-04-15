@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "62532500-C15E-41A0-AB37-79B1033F98C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 375,
+    "x": 0,
+    "y": 298
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Status Bar / Gateway",
+  "nameIsFixed": false,
+  "originalObjectID": "23D3243A-D8A0-4925-9BD2-78AFED0FEE3C",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "263B7319-46C4-412B-A589-0C8E3385B682",
+      "overrideName": "1518106E-D782-4FEC-9B05-853D7C4353EC_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95A5156E-7600-494C-8BBA-CEDB6DC18105",
+      "overrideName": "55C1865D-A829-4D67-ACBE-7771CBF384F9_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "1518106E-D782-4FEC-9B05-853D7C4353EC": " ",
+    "55C1865D-A829-4D67-ACBE-7771CBF384F9": " "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6678303A-AEAB-4D54-B9F6-8803F6B88749",
+  "verticalSpacing": 0
+}

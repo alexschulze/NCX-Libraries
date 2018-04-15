@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "8CF7C3D6-A23A-4E5D-834A-B70DBCD8C8E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 144,
+    "width": 144,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E296FF11-D999-4889-9D8A-0BCCB22E7F0E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "34115A8D-192D-473C-8829-9A4BBE5BDDB4"
+    }
+  ],
+  "name": "dial-pad_outline",
+  "nameIsFixed": false,
+  "originalObjectID": "8CF7C3D6-A23A-4E5D-834A-B70DBCD8C8E5",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

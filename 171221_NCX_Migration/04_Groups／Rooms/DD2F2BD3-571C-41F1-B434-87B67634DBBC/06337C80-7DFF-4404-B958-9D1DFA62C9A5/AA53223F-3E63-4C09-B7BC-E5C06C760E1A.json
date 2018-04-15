@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AA53223F-3E63-4C09-B7BC-E5C06C760E1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 62,
+    "width": 375,
+    "x": 0,
+    "y": 124
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Edit Value Black Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "CE9F7E93-698D-469B-98B7-28062E1953DB",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B74EDDB5-9F0F-47EA-B5F7-25CA7D88A682_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F72CE0A3-C636-4A66-9B53-36F3A99ED556_stringValue",
+      "value": "+"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D21AAD21-DE93-4F9A-9853-3C40D43B28BA_stringValue",
+      "value": "Create Scenes"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7510528A-99F2-47E5-9361-4DC1A9376EEA_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E0458135-2B7A-42E4-9D05-E651ED635EA2_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "7510528A-99F2-47E5-9361-4DC1A9376EEA": " ",
+    "B74EDDB5-9F0F-47EA-B5F7-25CA7D88A682": " ",
+    "D21AAD21-DE93-4F9A-9853-3C40D43B28BA": "Create Scenes",
+    "E0458135-2B7A-42E4-9D05-E651ED635EA2": " ",
+    "F72CE0A3-C636-4A66-9B53-36F3A99ED556": "+"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "12B4996C-53C6-4CD8-A2E3-B497D32F5CC5",
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "3C3E84DC-662D-41EA-BFEF-AB22308E1531"
+    }
+  },
+  "verticalSpacing": 0
+}

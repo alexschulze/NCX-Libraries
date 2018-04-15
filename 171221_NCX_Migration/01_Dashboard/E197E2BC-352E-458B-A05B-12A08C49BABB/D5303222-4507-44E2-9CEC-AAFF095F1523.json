@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D5303222-4507-44E2-9CEC-AAFF095F1523",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 276,
+    "x": 335,
+    "y": 153
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Headlines / Cards / Blue Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "C747F949-D7FB-409C-826E-FC80898CC7A3",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "09109F6E-98EC-43DC-A6DD-F444919450A7_stringValue",
+      "value": "Setup Alarm System"
+    }
+  ],
+  "overrides": {
+    "09109F6E-98EC-43DC-A6DD-F444919450A7": "Setup Alarm System"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "602AE1A8-9E36-4D69-81D7-5DBCC2139BD4",
+  "verticalSpacing": 0
+}

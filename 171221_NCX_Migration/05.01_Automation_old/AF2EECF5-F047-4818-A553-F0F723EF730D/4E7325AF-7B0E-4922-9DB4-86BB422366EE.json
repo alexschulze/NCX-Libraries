@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4E7325AF-7B0E-4922-9DB4-86BB422366EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 375,
+    "x": 0,
+    "y": 481
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Time Picker",
+  "nameIsFixed": false,
+  "originalObjectID": "67ECFE44-4F1F-493C-8257-63710FA3CFC3",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EB8A8E9E-0149-471C-92CE-62A477487418_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8BFCF384-1E50-4DA2-AF35-E2506A4FC83D_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "8BFCF384-1E50-4DA2-AF35-E2506A4FC83D": " ",
+    "EB8A8E9E-0149-471C-92CE-62A477487418": " "
+  },
+  "resizingConstraint": 39,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "86226016-E2BE-4142-968D-7DC3BDE6766A",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

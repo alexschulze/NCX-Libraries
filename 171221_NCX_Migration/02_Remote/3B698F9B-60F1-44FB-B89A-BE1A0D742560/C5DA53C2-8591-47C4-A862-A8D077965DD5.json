@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C5DA53C2-8591-47C4-A862-A8D077965DD5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 351,
+    "x": 12,
+    "y": 375
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Device Card Copy 4",
+  "nameIsFixed": false,
+  "originalObjectID": "E58A877E-5B10-4F18-8697-5F91C91FCCE2",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "038970C5-DB0D-4412-9676-30BF9EF6E6D7",
+      "overrideName": "A4666EE4-D25D-4E3D-8BAF-7D28C4D90314_symbolID",
+      "value": "E8D65D94-F303-4950-880C-53B94C266DBC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BBC6522E-A2BE-4F6B-9128-D5B3B71F93E6",
+      "overrideName": "5DD85302-8B25-4419-A6C7-76D9B20DDE57_symbolID",
+      "value": "8F0B09FA-6845-4DD6-AF0F-39F1317497FC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B734A107-1C0E-43F3-AFA6-8F08CC548147",
+      "overrideName": "BD40B16F-C9B7-431D-9030-73DAFCB0583C_symbolID",
+      "value": "08654C7D-354B-46BC-88B8-254B032D243B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7D633D37-6F71-4D92-86B1-57F7188C85F9",
+      "overrideName": "E0EA2C9C-076F-459A-8E24-37BF567FDA44_stringValue",
+      "value": "Off"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF36DFD3-4F70-4063-AA22-830BFA00D962",
+      "overrideName": "D77AF90B-5476-4F0B-BF9E-61FA07297F88_stringValue",
+      "value": "Smart Plug"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C67A573-0AEA-4125-9AFC-A3348D6AD9A4",
+      "overrideName": "98C69774-7A57-47E8-B022-A82A10A6493E_symbolID",
+      "value": "48E656A7-1C2C-438C-92A7-ECE3ED58359E"
+    }
+  ],
+  "overrides": {
+    "5DD85302-8B25-4419-A6C7-76D9B20DDE57": {
+      "symbolID": "8F0B09FA-6845-4DD6-AF0F-39F1317497FC"
+    },
+    "98C69774-7A57-47E8-B022-A82A10A6493E": {
+      "symbolID": "48E656A7-1C2C-438C-92A7-ECE3ED58359E"
+    },
+    "A4666EE4-D25D-4E3D-8BAF-7D28C4D90314": {
+      "symbolID": "E8D65D94-F303-4950-880C-53B94C266DBC"
+    },
+    "BD40B16F-C9B7-431D-9030-73DAFCB0583C": {
+      "symbolID": "08654C7D-354B-46BC-88B8-254B032D243B"
+    },
+    "D77AF90B-5476-4F0B-BF9E-61FA07297F88": "Smart Plug",
+    "E0EA2C9C-076F-459A-8E24-37BF567FDA44": "Off"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F4113206-2034-4D56-B997-A293C70464A4",
+  "verticalSpacing": 0
+}

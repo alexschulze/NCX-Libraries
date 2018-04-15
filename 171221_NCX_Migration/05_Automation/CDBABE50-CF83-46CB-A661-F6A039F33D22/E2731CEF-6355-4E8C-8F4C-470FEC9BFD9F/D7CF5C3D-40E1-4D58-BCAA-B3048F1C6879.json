@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D7CF5C3D-40E1-4D58-BCAA-B3048F1C6879",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 93.75,
+    "x": 188,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bottombar / Function Active Copy 4",
+  "nameIsFixed": false,
+  "originalObjectID": "A585D4FE-D7C0-4F92-AC31-056B9B629B93",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "28EE3008-3938-4C42-90AE-A34AE38FF0D7_stringValue",
+      "value": "Scenes"
+    }
+  ],
+  "overrides": {
+    "28EE3008-3938-4C42-90AE-A34AE38FF0D7": "Scenes"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3E33CA4F-4F6F-4CB1-A147-0B63AD3E5E94",
+  "verticalSpacing": 0
+}

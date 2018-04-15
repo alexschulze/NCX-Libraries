@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9607843137254902,
+    "red": 0.9764705882352941
+  },
+  "do_objectID": "2600EA23-3CF8-4180-A754-A8428EF05F1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 6719,
+    "y": 409
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1C62F5B0-A5B3-4BF6-9114-191A53DC02B5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B655F112-F8A7-42C8-8F79-3CC858E4E860"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B48B8460-9A11-4C7E-BA1A-345B351AB4AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "912C8885-C225-4252-B33D-021EFAC160C7"
+    },
+    {
+      "class": "text",
+      "id": "54C04C0E-489D-4DD1-BCF8-09B2CC8091ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62505F5C-D657-4DEB-B5A3-91F397E666D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A9AF702D-723B-45A2-9F74-A247378166A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF182A46-B330-4CD8-8997-AC1217A431A3"
+    }
+  ],
+  "name": "Grouping_Thermostats01 Copy",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

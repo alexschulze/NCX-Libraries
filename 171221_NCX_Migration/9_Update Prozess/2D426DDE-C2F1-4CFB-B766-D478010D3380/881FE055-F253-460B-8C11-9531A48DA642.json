@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "881FE055-F253-460B-8C11-9531A48DA642",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 375,
+    "x": 0,
+    "y": 264
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Status Bar / Status signal+battery",
+  "nameIsFixed": false,
+  "originalObjectID": "23D3243A-D8A0-4925-9BD2-78AFED0FEE3C",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "55C1865D-A829-4D67-ACBE-7771CBF384F9_stringValue",
+      "value": "System"
+    }
+  ],
+  "overrides": {
+    "55C1865D-A829-4D67-ACBE-7771CBF384F9": "System"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6678303A-AEAB-4D54-B9F6-8803F6B88749",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2FFCDFD9-7F07-4A3E-8684-545D8F59EDF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 351,
+    "x": 12,
+    "y": 83
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input / Input",
+  "nameIsFixed": false,
+  "originalObjectID": "E57ABE37-5973-47AA-B810-5E14F9EDD4EC",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "31058FA8-D0DD-428F-A938-6A537D19B00A_stringValue",
+      "value": "Name of Room"
+    }
+  ],
+  "overrides": {
+    "31058FA8-D0DD-428F-A938-6A537D19B00A": "Name of Room"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6A8A47AF-C813-4CD2-ACB0-9579A4CEA499",
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "67CAF346-C5D7-430D-9F8D-76AED54BF8E8"
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,98 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1417B459-55EB-413F-BA69-B160F3759AFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 62,
+    "width": 375,
+    "x": 0,
+    "y": 408
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Headlines / Subheadline Edit Copy 3",
+  "nameIsFixed": false,
+  "originalObjectID": "2CAD973A-25C9-4595-94D0-9C88884635B6",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EBDAE5B2-36F3-4C07-9971-FA2A7F1A0E56/F131375C-4B7F-43D1-AE23-8C511E2C1467_stringValue",
+      "value": "Living Room"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8A5CB14C-88F4-4AC1-A285-992036F2E960_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "782EB090-BA70-496F-9009-9118C4636757_stringValue",
+      "value": "Select all"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "870DB0AA-3977-402E-B07C-DA48D839B30D_stringValue",
+      "value": "Repeat"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AE686048-8BE2-4EB4-B3F6-D7ED3205F943_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2AE1E19B-F738-4354-A7E9-F747D97B260A",
+      "overrideName": "1B2C8D0F-9B1A-4B55-8E3D-E6192EA576F5_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "1B2C8D0F-9B1A-4B55-8E3D-E6192EA576F5": {
+      "symbolID": ""
+    },
+    "782EB090-BA70-496F-9009-9118C4636757": "Select all",
+    "870DB0AA-3977-402E-B07C-DA48D839B30D": "Repeat",
+    "8A5CB14C-88F4-4AC1-A285-992036F2E960": {
+      "symbolID": ""
+    },
+    "AE686048-8BE2-4EB4-B3F6-D7ED3205F943": {
+      "symbolID": ""
+    },
+    "EBDAE5B2-36F3-4C07-9971-FA2A7F1A0E56": {
+      "F131375C-4B7F-43D1-AE23-8C511E2C1467": "Living Room"
+    }
+  },
+  "resizingConstraint": 39,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C5BED87B-C9E0-4C5B-B3B8-45F993425D27",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

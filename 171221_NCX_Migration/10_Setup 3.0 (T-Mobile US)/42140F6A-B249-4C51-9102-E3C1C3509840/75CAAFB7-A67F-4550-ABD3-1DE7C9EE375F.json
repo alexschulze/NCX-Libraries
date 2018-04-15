@@ -1,0 +1,106 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "75CAAFB7-A67F-4550-ABD3-1DE7C9EE375F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / Nav Bar Trans",
+  "nameIsFixed": false,
+  "originalObjectID": "1B80F6E5-8DC0-4A73-BA0B-1860808902E6",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "09539E24-D417-4B7D-820D-3255BF767057_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BD8FAB86-6317-4B9A-B138-A3A42FCC1163_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "73B36891-D379-4D6A-97EF-67328221D3E5_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DB6D82CC-C05C-41DF-AC12-EDECE9C4FB5C_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0D8E6587-02D3-4AF4-8642-CAB31F9C65EF_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8EB9E00-BD0D-4ED4-9D82-8F01B2E3FEEC",
+      "overrideName": "2E02C837-EDCC-4320-8109-04A9DC4344A4/1DA747D5-6BD0-4A2D-88CD-73DFEB969029/5E4088FD-2F8E-4CED-9395-CB6EBE34775D_stringValue",
+      "value": "T-Mobile.us"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C4D5B40E-A8CC-4AED-8E64-0D8587A0F799",
+      "overrideName": "2E02C837-EDCC-4320-8109-04A9DC4344A4/6001E1EF-DF96-40A7-83E6-CC85346D1D0E_symbolID",
+      "value": "E183F31C-946E-47FD-853F-FE000EC64022"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A17A246-6566-4008-A3E4-69B7226EA876",
+      "overrideName": "2E02C837-EDCC-4320-8109-04A9DC4344A4/6001E1EF-DF96-40A7-83E6-CC85346D1D0E/5E4088FD-2F8E-4CED-9395-CB6EBE34775D_stringValue",
+      "value": "T-Mobile.us"
+    }
+  ],
+  "overrides": {
+    "09539E24-D417-4B7D-820D-3255BF767057": {
+      "symbolID": ""
+    },
+    "0D8E6587-02D3-4AF4-8642-CAB31F9C65EF": " ",
+    "2E02C837-EDCC-4320-8109-04A9DC4344A4": {
+      "1DA747D5-6BD0-4A2D-88CD-73DFEB969029": {
+        "5E4088FD-2F8E-4CED-9395-CB6EBE34775D": "T-Mobile.us"
+      },
+      "6001E1EF-DF96-40A7-83E6-CC85346D1D0E": {
+        "5E4088FD-2F8E-4CED-9395-CB6EBE34775D": "T-Mobile.us",
+        "symbolID": "E183F31C-946E-47FD-853F-FE000EC64022"
+      }
+    },
+    "73B36891-D379-4D6A-97EF-67328221D3E5": " ",
+    "BD8FAB86-6317-4B9A-B138-A3A42FCC1163": " ",
+    "DB6D82CC-C05C-41DF-AC12-EDECE9C4FB5C": " "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F5AA6A15-E072-4160-ACE8-0730CB2EE3EE",
+  "verticalSpacing": 0
+}

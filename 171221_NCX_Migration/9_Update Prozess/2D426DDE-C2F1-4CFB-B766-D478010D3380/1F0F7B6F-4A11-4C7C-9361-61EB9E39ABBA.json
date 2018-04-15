@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1F0F7B6F-4A11-4C7C-9361-61EB9E39ABBA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 83,
+    "width": 375,
+    "x": 0,
+    "y": 288
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Lable Input",
+  "nameIsFixed": false,
+  "originalObjectID": "793BAFA1-366A-4E04-8026-B3BC9F7B793F",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C9BDE7D0-84FE-49E1-A7BA-9F65CB4C33B9_stringValue",
+      "value": "Name"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A5C6FFA9-18AC-470E-A00E-8DC7A1601738/31058FA8-D0DD-428F-A938-6A537D19B00A_stringValue",
+      "value": "My Gateway"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF7BF85E-5C29-4553-BA6D-5342287F2120",
+      "overrideName": "A5C6FFA9-18AC-470E-A00E-8DC7A1601738/41F60FFD-3D34-4092-8FB2-7A85DFDE0311_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "A5C6FFA9-18AC-470E-A00E-8DC7A1601738": {
+      "31058FA8-D0DD-428F-A938-6A537D19B00A": "My Gateway",
+      "41F60FFD-3D34-4092-8FB2-7A85DFDE0311": {
+        "symbolID": ""
+      }
+    },
+    "C9BDE7D0-84FE-49E1-A7BA-9F65CB4C33B9": "Name"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "96A99267-8553-43E9-8B98-B98A679D5554",
+  "verticalSpacing": 0
+}

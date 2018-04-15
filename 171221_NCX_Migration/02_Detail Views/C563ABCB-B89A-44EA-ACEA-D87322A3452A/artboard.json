@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.2941176470588235,
+    "green": 0.2941176470588235,
+    "red": 0.2941176470588235
+  },
+  "do_objectID": "C563ABCB-B89A-44EA-ACEA-D87322A3452A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 8032,
+    "y": -559
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C9665BE5-7594-4DA3-ABEF-D54E8B08EFBB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF317C20-355B-49FB-B841-EFB8E51FC387"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A06C78DB-D858-425B-8E8D-3652E4A9CFC1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C292391-F22F-413F-8E72-C1949335FD84"
+    },
+    {
+      "class": "text",
+      "id": "03B544DA-FC27-4131-A7B4-31499500EB1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54FF5473-0B2C-4C4D-BEB1-18C2F80F6804"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "838D610B-E411-44FF-9CA4-B1F2F05B451A"
+    }
+  ],
+  "name": "Speaker",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

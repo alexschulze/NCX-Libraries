@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ECD59DA7-45EA-4C61-86C3-051ADFBFC048",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 273,
+    "x": 50,
+    "y": 507
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Text /Status Dark Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "8E361063-91A6-44F5-88CA-A24D8C2E0C8A",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "89180CD8-3745-43D6-85EA-2E3C706817BB_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod "
+    }
+  ],
+  "overrides": {
+    "89180CD8-3745-43D6-85EA-2E3C706817BB": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0B553815-93E1-4806-ADFF-42C06EA2202E",
+  "verticalSpacing": 0
+}

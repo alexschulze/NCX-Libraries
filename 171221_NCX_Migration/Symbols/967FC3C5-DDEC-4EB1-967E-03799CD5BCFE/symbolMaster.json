@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
+  "changeIdentifier": 2613,
+  "do_objectID": "967FC3C5-DDEC-4EB1-967E-03799CD5BCFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 343,
+    "width": 375,
+    "x": 5160,
+    "y": 2924
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D561410D-5DFC-47BB-8426-8B946201D5DE"
+    },
+    {
+      "class": "text",
+      "id": "FE4BE7EB-CEC8-4D47-A0F1-5BD23D3A67C3"
+    },
+    {
+      "class": "text",
+      "id": "C3A10E0C-4688-4975-AA12-54C0E5867E90"
+    },
+    {
+      "class": "text",
+      "id": "13329950-D957-4F39-AC95-02BCBA2C9A97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1724CE4-DC59-42CF-B848-E3B1CB7FD608"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BAED2791-0784-4BBB-95A9-9D9C53C534F7"
+    }
+  ],
+  "name": "Details / Slider Range",
+  "nameIsFixed": true,
+  "originalObjectID": "967FC3C5-DDEC-4EB1-967E-03799CD5BCFE",
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "07F16D70-F995-47DE-8425-43A3BC8C36E2",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

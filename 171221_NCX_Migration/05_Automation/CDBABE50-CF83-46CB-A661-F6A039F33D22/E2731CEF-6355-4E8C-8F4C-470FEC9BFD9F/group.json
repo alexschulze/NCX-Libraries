@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "E2731CEF-6355-4E8C-8F4C-470FEC9BFD9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 53,
+    "width": 376,
+    "x": 0,
+    "y": 618
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C09A77C8-F15D-4638-AD19-9F8BFFB73300"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B65E35C-DFA9-4657-A960-63E42AAA060E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7CF5C3D-40E1-4D58-BCAA-B3048F1C6879"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9D3FA43-B428-436A-9EEF-A63426EDBA49"
+    }
+  ],
+  "name": "Bottom Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

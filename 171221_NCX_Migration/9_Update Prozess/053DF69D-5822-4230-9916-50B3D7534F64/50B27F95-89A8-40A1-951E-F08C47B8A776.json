@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "50B27F95-89A8-40A1-951E-F08C47B8A776",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 170,
+    "width": 170,
+    "x": 194,
+    "y": 684
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Grid Copy 2",
+  "nameIsFixed": false,
+  "originalObjectID": "2E8BF490-940F-40E9-AE49-CAADBB13D4F3",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "162445AD-0686-4BC2-BA03-0FB07B8DA7A4_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CD61B305-818B-4A65-A8AB-412CD7BC98D5_stringValue",
+      "value": "Gateway"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D2CB4197-36D2-40A0-8BA5-39EB0E26E7FA_symbolID",
+      "value": "F1888B09-2802-4E90-BEB1-9F07A0EE3A58"
+    }
+  ],
+  "overrides": {
+    "162445AD-0686-4BC2-BA03-0FB07B8DA7A4": " ",
+    "CD61B305-818B-4A65-A8AB-412CD7BC98D5": "Gateway",
+    "D2CB4197-36D2-40A0-8BA5-39EB0E26E7FA": {
+      "symbolID": "F1888B09-2802-4E90-BEB1-9F07A0EE3A58"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CDE5F7CE-47AA-4716-A655-B6BED5A881AF",
+  "verticalSpacing": 0
+}

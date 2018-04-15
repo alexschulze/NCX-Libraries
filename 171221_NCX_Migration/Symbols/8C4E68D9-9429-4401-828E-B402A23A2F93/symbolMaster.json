@@ -1,0 +1,104 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 595,
+  "do_objectID": "8C4E68D9-9429-4401-828E-B402A23A2F93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 24033,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8D72CAE3-958E-485F-93BE-DA0FC2A46706"
+    },
+    {
+      "class": "group",
+      "id": "FE023C8E-5B35-4723-9045-52C5B43A50E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5DA81F74-53F5-4ACE-A979-DC791E771C15"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D17D451-2953-422A-8C64-E0F3517BD840"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "57CF4C88-CE6C-4E30-AF68-03060E2CD492"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75316386-A5E5-41A4-90DD-5034BBB34C5F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C2FA2454-3349-4346-A05B-22DD595A54EC"
+    }
+  ],
+  "name": "Views/Action Sheet",
+  "nameIsFixed": true,
+  "originalObjectID": "8C4E68D9-9429-4401-828E-B402A23A2F93",
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FFC9C110-290B-4DD4-9A30-7EE77C3FC15A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

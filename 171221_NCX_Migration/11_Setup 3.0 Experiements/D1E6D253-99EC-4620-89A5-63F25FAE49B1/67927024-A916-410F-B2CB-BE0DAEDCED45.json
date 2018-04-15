@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "67927024-A916-410F-B2CB-BE0DAEDCED45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 324,
+    "x": 50.99999999999999,
+    "y": 108
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cells/Table/Cell Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "DEF18289-5AA6-4B0D-A48B-6D4395F1B073",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "960D6D53-1934-4192-88A0-6F68D0DEC54C/D18DB6BB-00F7-4486-9289-699BE316664D_stringValue",
+      "value": "Wi-Fi"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "04942435-97E5-45F4-B6F6-7E2215530782_symbolID",
+      "value": "48EB5570-0B4B-447F-A09C-2B5105404D85"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "04942435-97E5-45F4-B6F6-7E2215530782/9C04D797-B51D-4D09-A33E-5801043C00DA_stringValue",
+      "value": "MyWiFi"
+    }
+  ],
+  "overrides": {
+    "04942435-97E5-45F4-B6F6-7E2215530782": {
+      "9C04D797-B51D-4D09-A33E-5801043C00DA": "MyWiFi",
+      "symbolID": "48EB5570-0B4B-447F-A09C-2B5105404D85"
+    },
+    "960D6D53-1934-4192-88A0-6F68D0DEC54C": {
+      "D18DB6BB-00F7-4486-9289-699BE316664D": "Wi-Fi"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F0BC3F93-D667-48A1-8302-58D829751D38",
+  "verticalSpacing": 0
+}

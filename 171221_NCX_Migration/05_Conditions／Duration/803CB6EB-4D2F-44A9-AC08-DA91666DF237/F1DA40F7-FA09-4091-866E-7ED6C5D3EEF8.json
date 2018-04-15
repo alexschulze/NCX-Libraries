@@ -1,0 +1,128 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F1DA40F7-FA09-4091-866E-7ED6C5D3EEF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 351,
+    "x": 12,
+    "y": 539
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Device Card Copy 7",
+  "nameIsFixed": false,
+  "originalObjectID": "06B1F2AC-4E81-4A40-B242-07973899C16C",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5AC67DA0-FBA9-464C-B6D9-A9EC21C4778D_symbolID",
+      "value": "D142821C-5657-4C75-92A1-E4600B1FEC87"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D77AF90B-5476-4F0B-BF9E-61FA07297F88_stringValue",
+      "value": "Philips Hue 3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BD40B16F-C9B7-431D-9030-73DAFCB0583C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "78581209-3E34-4442-91B8-52B813BBB9DA",
+      "overrideName": "4C8B585B-D5F3-4459-A70E-FA9DA15E0371_symbolID",
+      "value": "958C75E7-8318-44C9-8BA9-9E15A5DB6314"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4CD875E3-5DDE-4AEF-A6FE-382FA34A0891",
+      "overrideName": "780197C8-BBFF-4837-A6DE-D0D5E3BAF25C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC3DE9B6-B4CE-4423-9ADE-AAE80191D4AD",
+      "overrideName": "084B78EA-556B-4D27-BC84-33DDD46E3548_stringValue",
+      "value": "Set duration"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ECAB4488-33DD-44EC-B98B-EF0C25E0860E",
+      "overrideName": "DE81F38F-D3C0-44F3-BD6F-238B8188125F_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F1D4DFD-C0AA-412A-B149-A90502285C0E",
+      "overrideName": "45B5BDEE-904B-4021-ABB5-338307E703DD_symbolID",
+      "value": "58F74C13-2671-4A3D-84B5-6B78E9DE1DBB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8FC91BA1-B3AF-46FA-A9E7-F9DAB1CE96B1",
+      "overrideName": "925D6FED-48D2-47DC-A738-DAFC7560782B_stringValue",
+      "value": "Set duration (optional)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E8F44E4-FB1A-4AD5-AEF5-E41DAA8BA36C",
+      "overrideName": "79F6D723-4158-4B2E-A49B-3C36DFD39A4B_symbolID",
+      "value": "958C75E7-8318-44C9-8BA9-9E15A5DB6314"
+    }
+  ],
+  "overrides": {
+    "084B78EA-556B-4D27-BC84-33DDD46E3548": "Set duration",
+    "45B5BDEE-904B-4021-ABB5-338307E703DD": {
+      "symbolID": "58F74C13-2671-4A3D-84B5-6B78E9DE1DBB"
+    },
+    "4C8B585B-D5F3-4459-A70E-FA9DA15E0371": {
+      "symbolID": "958C75E7-8318-44C9-8BA9-9E15A5DB6314"
+    },
+    "5AC67DA0-FBA9-464C-B6D9-A9EC21C4778D": {
+      "symbolID": "D142821C-5657-4C75-92A1-E4600B1FEC87"
+    },
+    "780197C8-BBFF-4837-A6DE-D0D5E3BAF25C": {
+      "symbolID": ""
+    },
+    "79F6D723-4158-4B2E-A49B-3C36DFD39A4B": {
+      "symbolID": "958C75E7-8318-44C9-8BA9-9E15A5DB6314"
+    },
+    "925D6FED-48D2-47DC-A738-DAFC7560782B": "Set duration (optional)",
+    "BD40B16F-C9B7-431D-9030-73DAFCB0583C": {
+      "symbolID": ""
+    },
+    "D77AF90B-5476-4F0B-BF9E-61FA07297F88": "Philips Hue 3",
+    "DE81F38F-D3C0-44F3-BD6F-238B8188125F": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "59FE3508-E98E-447F-AC54-9CF7A4F6980B",
+  "verticalSpacing": 0
+}

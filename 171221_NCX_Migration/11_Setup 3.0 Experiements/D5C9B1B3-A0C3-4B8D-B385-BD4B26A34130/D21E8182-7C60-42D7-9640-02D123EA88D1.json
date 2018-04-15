@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D21E8182-7C60-42D7-9640-02D123EA88D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 237,
+    "x": 50,
+    "y": 228
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Text /Status Dark",
+  "nameIsFixed": false,
+  "originalObjectID": "32D3535C-791B-4516-B499-3E25498F4F47",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "AAD45763-DBE2-4381-945C-85505473EABF_stringValue",
+      "value": "1. Connect hub"
+    }
+  ],
+  "overrides": {
+    "AAD45763-DBE2-4381-945C-85505473EABF": "1. Connect hub"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "43CB4E8D-BFF8-4E40-8266-8EC160B07606",
+  "verticalSpacing": 0
+}

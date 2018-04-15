@@ -1,0 +1,142 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9607843137254902,
+    "red": 0.9764705882352941
+  },
+  "do_objectID": "E4006017-3C56-4DE2-9B2A-8FA7B30B72D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 4163,
+    "y": 10084
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6F58E242-2406-4916-B11A-3524BC0E32EE"
+    },
+    {
+      "class": "text",
+      "id": "4F804FB6-8710-4B0B-B45E-A9E024138956"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42C38365-CBC1-466B-BA08-4C8178E26C35"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF5B6CFA-2008-4B6E-A52D-4D0696FEA3F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3310E0B8-2958-4B38-BFAA-E12C781C0D9C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B38D6D01-994C-4D6C-8DB4-C95F69E5EF55"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9ACE7AB7-F28A-476E-9D19-F10E96DAEB98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9943AF9-EC16-42F5-BB3D-DD5BEAA0CAB9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7584AA7E-8AEC-43B7-8809-7701422B0725"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7E29628-903C-453A-A573-A3D51BE7459B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AED166D7-651A-4601-8F4C-8DD60E702B2E"
+    }
+  ],
+  "name": "01.06 Setup Fire+Police Permit 02",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "E4006017-3C56-4DE2-9B2A-8FA7B30B72D0"
+    },
+    "io.magicsketch.mirror": {
+      "included": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

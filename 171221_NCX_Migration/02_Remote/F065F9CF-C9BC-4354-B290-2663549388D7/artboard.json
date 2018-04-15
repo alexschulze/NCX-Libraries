@@ -1,0 +1,186 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9607843137254902,
+    "red": 0.9764705882352941
+  },
+  "do_objectID": "F065F9CF-C9BC-4354-B290-2663549388D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1024,
+    "x": 10799,
+    "y": 3276
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "37DB504C-C477-475D-A5BD-17DEEF5FBEC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8D9CBED-A131-4BFB-9C28-2BE0CFCB1F6B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98BDC0F4-5E88-457C-96BE-F3FAEA713A84"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B034C1F6-E740-4AEF-9FAE-C3A6BBABD6A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6AB5B9FB-A162-4255-A204-AFF63C723D31"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "619C724C-741C-4943-989E-676618C79799"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59506421-592F-496A-9334-2C3B3B2952AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26331795-3C37-461E-ABD2-828DF35B3C91"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16E7DFE1-3EA6-4972-9D87-AAA897A3BC3F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "419B3492-0223-485E-9B80-14778293ACA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72B9D697-6B90-4D5D-B8AE-006D852FF01F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "71C742C7-DFC5-4C8C-A3EB-7FDA9EFD17D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2729EF16-40AF-41B7-9497-CE6F2379D012"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E15E0F46-8F0E-4FD3-BFDA-258DAF4C0923"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6538C133-0907-4C10-8362-AFC86634A4AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29AA81C2-0C3F-4772-BAD7-6EC1A077A28A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "579F38DE-5EE0-4C1B-8A4D-963CF27308EE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BD0A75E7-5CCF-41C6-AB82-D4A6AC8A3EAC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0618679C-9EF7-40B0-8854-78E3C34FD54C"
+    },
+    {
+      "class": "text",
+      "id": "4DAB70CE-08FA-4657-B82D-22C8FC760009"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3BB49541-941F-4434-9DE1-CCF0622C9D31"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B7209A07-71E2-4AF3-AB7F-56F65F27C4D4"
+    }
+  ],
+  "name": "Remote_Migration_01 Copy 2",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 768,
+    "name": "iPad",
+    "offersLandscapeVariant": 1,
+    "width": 1024
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "8155287E-F267-49A3-BEF9-B4ABA1155421"
+    },
+    "io.magicsketch.mirror": {
+      "included": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

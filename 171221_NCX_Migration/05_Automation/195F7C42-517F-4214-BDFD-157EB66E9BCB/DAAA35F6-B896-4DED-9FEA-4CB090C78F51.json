@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DAAA35F6-B896-4DED-9FEA-4CB090C78F51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F3D09F53-57DE-4FA3-B807-85CFC7AC4832",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B304F21A-71CF-432B-A224-CD0E82934C47",
+    "height": 35,
+    "width": 375,
+    "x": 0,
+    "y": 563
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Headlines / Big Copy 2",
+  "nameIsFixed": false,
+  "originalObjectID": "68CD24D3-F72A-498B-98C5-D7E628F6FA99",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "17D251AE-E99D-427E-88CA-2D7D917044CC_stringValue",
+      "value": "Else ..."
+    }
+  ],
+  "overrides": {
+    "17D251AE-E99D-427E-88CA-2D7D917044CC": "Else ..."
+  },
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "313D998A-9812-4ADA-9076-442797B7A901",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "60517B0B-BF6B-45E9-8C3C-E318D698DD3C",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "71ECC723-0857-491C-8481-48D551459331",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 62,
+    "width": 375,
+    "x": 0,
+    "y": 402
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rectangle 1489 + Fernbedienung Copy 10",
+  "nameIsFixed": false,
+  "originalObjectID": "CA056B3C-FA81-4EE3-907E-971B79EEC9FD",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F1C607C1-543A-4135-8229-E4F4F19D3BAC_stringValue",
+      "value": "Cameras"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3B4B87AD-682E-4FB5-B023-95504DCE0C5C_symbolID",
+      "value": "49FB11B0-6A65-46BD-8354-408EA7FBEDE0"
+    }
+  ],
+  "overrides": {
+    "3B4B87AD-682E-4FB5-B023-95504DCE0C5C": {
+      "symbolID": "49FB11B0-6A65-46BD-8354-408EA7FBEDE0"
+    },
+    "F1C607C1-543A-4135-8229-E4F4F19D3BAC": "Cameras"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FD996CED-6901-4C8F-9F28-E73704336A61",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,104 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "F37C0E8D-4725-4A9A-B3D7-4B7052598752",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 907,
+    "y": -559
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4D3643B2-35AF-4D06-B540-022F202F771F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB129271-475F-49CC-B48F-28595FDD1BB2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "187F9D65-9E34-4D3D-B124-FA2883027B6C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D82B9709-3397-43F9-84CA-1295187F9E91"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28E48AA4-8721-423F-BC44-E609B79F0F85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "035523C3-0096-460F-A57F-D8D953F42988"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5795D046-3A59-420F-AA45-9D3F8A88C51C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D9FD9AB-A279-4AD0-9A49-168CF4CC92DD"
+    }
+  ],
+  "name": "Sensor_Multi_08",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

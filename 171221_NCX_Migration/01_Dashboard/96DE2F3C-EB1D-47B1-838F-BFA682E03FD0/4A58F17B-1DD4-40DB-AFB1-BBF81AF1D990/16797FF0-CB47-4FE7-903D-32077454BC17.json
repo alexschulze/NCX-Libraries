@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "16797FF0-CB47-4FE7-903D-32077454BC17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 62,
+    "width": 351,
+    "x": 0,
+    "y": 16
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Check",
+  "nameIsFixed": false,
+  "originalObjectID": "C7596B1A-7614-4E9D-83F1-D320D975974C",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BE79D322-D6D0-47FD-8D01-5ED47C021DCB_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3727B396-4728-4159-BFAE-F8A59FCB8888",
+      "overrideName": "8D82521C-D13C-4C8E-90A7-A5EDD04C32DB_stringValue",
+      "value": "Eco"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3A6F3CC-33C0-47F1-86A0-1BFFAA21F6B5",
+      "overrideName": "169E1F4D-3C0C-4F14-95CA-CDC8B273A9B3_symbolID",
+      "value": "E3A3AA07-8FD9-4A0C-BEA5-703A3514FDFD"
+    }
+  ],
+  "overrides": {
+    "169E1F4D-3C0C-4F14-95CA-CDC8B273A9B3": {
+      "symbolID": "E3A3AA07-8FD9-4A0C-BEA5-703A3514FDFD"
+    },
+    "8D82521C-D13C-4C8E-90A7-A5EDD04C32DB": "Eco",
+    "BE79D322-D6D0-47FD-8D01-5ED47C021DCB": " "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 2,
+      "opacity": 1
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D9975307-2EF4-4409-962D-D131F8F4A053",
+  "verticalSpacing": 0
+}

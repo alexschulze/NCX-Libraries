@@ -1,0 +1,124 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9607843137254902,
+    "red": 0.9764705882352941
+  },
+  "do_objectID": "8D6059DA-FC8A-4740-A283-DA1BA1BD29DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1024,
+    "x": -1706,
+    "y": 10153
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FDDD7E43-CAA6-437A-95F8-964B93F3B7EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58738B70-6872-422B-8D38-FF8869B9E357"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FC86B0F-08C9-41CF-81A9-DFBFE4FD1512"
+    },
+    {
+      "class": "text",
+      "id": "69D3A28B-557E-4FB2-9BB3-5673CAE05D1B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A58F8C0E-C4D0-4774-BFDA-B518BD3A671E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E68932C0-0EDF-4340-9B64-406F5B6CADE3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3CC01B7-7B68-4C20-A442-6EE7B7A0F958"
+    }
+  ],
+  "name": "Automation_Flow_Tablet_01",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 768,
+    "name": "iPad",
+    "offersLandscapeVariant": 1,
+    "width": 1024
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

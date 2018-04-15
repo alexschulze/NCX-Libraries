@@ -1,0 +1,109 @@
+{
+  "_class": "page",
+  "do_objectID": "8091D8B2-EE86-4754-842D-209443DD9A04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -450,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "AA6C6A7B-0D28-4DBE-AD1B-8B3977BC5F39"
+    },
+    {
+      "class": "artboard",
+      "id": "9B24C96E-9DE0-4BDB-A7CC-DCE187EEBC17"
+    },
+    {
+      "class": "artboard",
+      "id": "CD6F5D3A-7433-43E0-8B80-2390D4FFEB20"
+    },
+    {
+      "class": "artboard",
+      "id": "D5C9B1B3-A0C3-4B8D-B385-BD4B26A34130"
+    },
+    {
+      "class": "artboard",
+      "id": "349559C9-1F72-48C5-96FE-84908A1C4D85"
+    },
+    {
+      "class": "artboard",
+      "id": "E5146D42-0C5E-47F1-A6DF-78EEA336A5CC"
+    },
+    {
+      "class": "artboard",
+      "id": "8BBFB1BE-36E4-49A5-9EDA-52410232F84E"
+    },
+    {
+      "class": "artboard",
+      "id": "ED649ADB-CD76-4950-BB68-EAEB5C1B5478"
+    },
+    {
+      "class": "artboard",
+      "id": "D1E6D253-99EC-4620-89A5-63F25FAE49B1"
+    },
+    {
+      "class": "artboard",
+      "id": "170D9F67-C698-4761-BB65-7C0E1AACFDD4"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "11_Setup 3.0 Experiements",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -339,
+    "guides": [
+    ]
+  }
+}

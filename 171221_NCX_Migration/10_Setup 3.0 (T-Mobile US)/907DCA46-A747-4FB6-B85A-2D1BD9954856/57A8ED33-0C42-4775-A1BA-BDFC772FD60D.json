@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "57A8ED33-0C42-4775-A1BA-BDFC772FD60D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 10,
+    "width": 70,
+    "x": 153,
+    "y": 562
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dotbar",
+  "nameIsFixed": false,
+  "originalObjectID": "1EA099CD-9F93-424A-90DE-052341D82053",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6A9FBEED-6FF4-42ED-9B84-EF86B7FE383D_symbolID",
+      "value": "26648DFB-57FF-45EE-96FA-5716E4E22D17"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "48254D8E-48A8-4B7E-B62D-25A8F453F9AA_symbolID",
+      "value": "96A1A65D-2FCE-4856-8E67-D4AD1E0F2A04"
+    }
+  ],
+  "overrides": {
+    "48254D8E-48A8-4B7E-B62D-25A8F453F9AA": {
+      "symbolID": "96A1A65D-2FCE-4856-8E67-D4AD1E0F2A04"
+    },
+    "6A9FBEED-6FF4-42ED-9B84-EF86B7FE383D": {
+      "symbolID": "26648DFB-57FF-45EE-96FA-5716E4E22D17"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "10024605-3C55-4563-90EF-154B83B522E4",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,113 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 273,
+  "do_objectID": "B0E4CA99-C90D-4311-82D8-4D23E9727F8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 375,
+    "x": 22308,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CBB4B68D-421E-4362-B032-19145D0566BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F8BFE0A9-DFAB-4E75-BAD7-0C8CB2A0F75A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EFA67E0A-7028-4470-AC25-A698616044B1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "451368F7-C829-4039-A1B2-3707029921B7"
+    },
+    {
+      "class": "group",
+      "id": "7027138F-4E6C-4647-970D-3227DE4A47CA"
+    },
+    {
+      "class": "group",
+      "id": "3F13BB4E-7E5D-4F69-B69D-CD531F0F522E"
+    },
+    {
+      "class": "group",
+      "id": "C4168137-154A-4CDF-B276-A69C294B4DE9"
+    },
+    {
+      "class": "group",
+      "id": "33A0DD77-1987-48DF-BAC0-C4F1A3DB635D"
+    },
+    {
+      "class": "group",
+      "id": "66C22212-2FCF-4CCA-90D7-4611D5C61C96"
+    },
+    {
+      "class": "group",
+      "id": "2C372CB0-DCBE-4F95-9DA1-5C77E00D7120"
+    },
+    {
+      "class": "group",
+      "id": "5D690769-DEB6-42A6-A8EB-7E187DEA19D2"
+    }
+  ],
+  "name": "Time Picker Range",
+  "nameIsFixed": true,
+  "originalObjectID": "B0E4CA99-C90D-4311-82D8-4D23E9727F8E",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E80AFD4F-FC69-4488-A56C-0A49DB785609",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

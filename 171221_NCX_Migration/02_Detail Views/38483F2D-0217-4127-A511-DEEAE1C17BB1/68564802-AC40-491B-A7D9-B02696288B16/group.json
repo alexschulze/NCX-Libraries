@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "68564802-AC40-491B-A7D9-B02696288B16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 121,
+    "width": 120,
+    "x": 128,
+    "y": 195
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E0DFD443-709F-40C4-AC88-FD75A143E72F"
+    },
+    {
+      "class": "group",
+      "id": "BEF0991D-D84A-4585-A839-62905ADA56FA"
+    }
+  ],
+  "name": "smoke-detector-ready_graphical",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

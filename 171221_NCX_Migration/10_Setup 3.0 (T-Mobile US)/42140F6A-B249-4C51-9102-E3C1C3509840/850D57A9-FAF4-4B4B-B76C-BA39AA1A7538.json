@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "850D57A9-FAF4-4B4B-B76C-BA39AA1A7538",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 258,
+    "x": 13,
+    "y": 646
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Secondary White",
+  "nameIsFixed": false,
+  "originalObjectID": "BE2E7A7E-CE8C-4BFF-8950-4F2E1679AB8F",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1CA3FA8B-401D-4E94-9D17-BC47D0B6BA99",
+      "overrideName": "378B17B8-5F1D-4F04-8C87-E3883CC3AE7A_stringValue",
+      "value": "Logout"
+    }
+  ],
+  "overrides": {
+    "378B17B8-5F1D-4F04-8C87-E3883CC3AE7A": "Logout"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7C4CF510-6EDC-4407-8DDC-A1CA469485C9",
+  "verticalSpacing": 0
+}

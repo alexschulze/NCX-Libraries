@@ -1,0 +1,134 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9607843137254902,
+    "red": 0.9764705882352941
+  },
+  "do_objectID": "EB720D8B-2749-481C-9D1B-6F6550366DCE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 3188,
+    "y": 10933
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B72B64C1-7347-46DB-B276-00B52260B76C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8074E1B6-A7F6-4270-A576-FD355A25C682"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F538393-BF47-4411-8603-821A6E864770"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5C3A1C9-EF1D-4E6B-8600-C7E03BC34CD9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0F3DFA6-2144-46A6-BD16-12955CD529C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "01A05A52-2605-4D97-9B80-86294D7E9AB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C646CAF-100B-49F1-BD4E-7CE6BDEF88B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7AD897C-04DD-4181-BB1C-AC950D275BFF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB714F8E-9F31-4A53-B43F-E04759FF17FC"
+    }
+  ],
+  "name": "01.04 Setup Emergency Contacts 02 Copy",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "EB720D8B-2749-481C-9D1B-6F6550366DCE"
+    },
+    "io.magicsketch.mirror": {
+      "included": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

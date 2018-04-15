@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C8099A1D-3ED6-4BA9-9579-C1D51D221117",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 117,
+    "width": 375,
+    "x": 0,
+    "y": 165
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Texts / Copy Steps White",
+  "nameIsFixed": false,
+  "originalObjectID": "F2670D1A-A3FD-4104-BB46-01AE32C7A9FD",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "27AB4706-AFB3-449E-A3B4-3CCF457BA67F_stringValue",
+      "value": "Sync Up Home has been setup successfully."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "31E33766-4409-4BBA-8E67-786D69CDAB93_stringValue",
+      "value": "CONGRATULATIONS!"
+    }
+  ],
+  "overrides": {
+    "27AB4706-AFB3-449E-A3B4-3CCF457BA67F": "Sync Up Home has been setup successfully.",
+    "31E33766-4409-4BBA-8E67-786D69CDAB93": "CONGRATULATIONS!"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B3027C14-162B-41EC-A61F-15F8F212AD82",
+  "verticalSpacing": 0
+}

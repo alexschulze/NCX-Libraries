@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "do_objectID": "7D8F1AE4-D00A-4C64-AB66-E84A2A19E276",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 84,
+    "width": 351,
+    "x": -1250,
+    "y": -3843
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "066519B5-0BCE-4064-B3FA-EE16AA250B90"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF09AF80-0FAC-4824-99FD-590147BC8CA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AFCCD8B3-AA0E-4195-8655-7EC6E1936A4C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1A5BDE8-4FFE-4998-8516-5ADDA66B6221"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3017A0D-62B9-48CB-B01E-2DA2A4E76198"
+    }
+  ],
+  "name": "Devices / Device Card Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

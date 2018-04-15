@@ -1,0 +1,128 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "313B87B1-F342-4950-910A-8C19E6245D41",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 84,
+    "width": 323,
+    "x": 670,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Grid",
+  "nameIsFixed": false,
+  "originalObjectID": "E58A877E-5B10-4F18-8697-5F91C91FCCE2",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "427B5AC8-C2C6-4394-A4FD-C0374015341C_stringValue",
+      "value": "Philips Hue Bulb"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C8A369A9-992B-4537-95B2-23EFAE3824CE_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "83A0043D-DFFF-4FB4-8225-92A1166A82C0_stringValue",
+      "value": "On 100%"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "73558B3B-7E88-4D66-9D91-7C03F48FAE58_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DFFD0E96-5AB6-4A54-93BD-A6C1E58009E7_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "67695526-B1F8-4EE2-8B0C-F034EA18E1F1_stringValue",
+      "value": "l"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5A50D5F8-4E98-4FBF-A70D-BB936012E545_stringValue",
+      "value": "Door - Window Contact"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6832E09D-046B-43F7-A9E8-EBE1B007B804",
+      "overrideName": "E0EA2C9C-076F-459A-8E24-37BF567FDA44_stringValue",
+      "value": "Closed"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "35AE8DAC-3241-4246-9DA2-B177FB48166B",
+      "overrideName": "D77AF90B-5476-4F0B-BF9E-61FA07297F88_stringValue",
+      "value": "Door / Window Contact"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3AE654A4-CB98-40FD-9CD4-738CD6E037E5",
+      "overrideName": "BD40B16F-C9B7-431D-9030-73DAFCB0583C/1878F1A2-B487-4D06-A135-74A1F997ED60_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F64F05CE-DB48-4EA2-B6E6-E3E27229F3C8",
+      "overrideName": "BD40B16F-C9B7-431D-9030-73DAFCB0583C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7232B1C-03E8-422B-B633-D587DF87E89B",
+      "overrideName": "5DD85302-8B25-4419-A6C7-76D9B20DDE57_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "427B5AC8-C2C6-4394-A4FD-C0374015341C": "Philips Hue Bulb",
+    "5A50D5F8-4E98-4FBF-A70D-BB936012E545": "Door - Window Contact",
+    "5DD85302-8B25-4419-A6C7-76D9B20DDE57": {
+      "symbolID": ""
+    },
+    "67695526-B1F8-4EE2-8B0C-F034EA18E1F1": "l",
+    "73558B3B-7E88-4D66-9D91-7C03F48FAE58": " ",
+    "83A0043D-DFFF-4FB4-8225-92A1166A82C0": "On 100%",
+    "BD40B16F-C9B7-431D-9030-73DAFCB0583C": {
+      "1878F1A2-B487-4D06-A135-74A1F997ED60": " ",
+      "symbolID": ""
+    },
+    "C8A369A9-992B-4537-95B2-23EFAE3824CE": " ",
+    "D77AF90B-5476-4F0B-BF9E-61FA07297F88": "Door / Window Contact",
+    "DFFD0E96-5AB6-4A54-93BD-A6C1E58009E7": " ",
+    "E0EA2C9C-076F-459A-8E24-37BF567FDA44": "Closed"
+  },
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F4113206-2034-4D56-B997-A293C70464A4",
+  "verticalSpacing": 0
+}

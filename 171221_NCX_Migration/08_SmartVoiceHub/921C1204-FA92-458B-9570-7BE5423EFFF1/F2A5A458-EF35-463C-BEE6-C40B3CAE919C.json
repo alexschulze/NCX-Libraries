@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F2A5A458-EF35-463C-BEE6-C40B3CAE919C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 210,
+    "x": 83,
+    "y": 550
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Primary Magenta",
+  "nameIsFixed": false,
+  "originalObjectID": "6EC0B9DA-7D35-44FA-99F3-EBBDF553FD3F",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F182919-D8BC-4B46-B3A2-1C2F434A5C23",
+      "overrideName": "DD08872E-5253-469E-90A7-327199885DB4_stringValue",
+      "value": "ZUM LOGIN"
+    }
+  ],
+  "overrides": {
+    "DD08872E-5253-469E-90A7-327199885DB4": "ZUM LOGIN"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6DAA598C-FA5E-4E43-9A3B-AC839390D77E",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "294ADC7A-F443-4552-A830-74E240AAC47C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 291,
+    "width": 375,
+    "x": 0,
+    "y": 376
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Details / Slider",
+  "nameIsFixed": false,
+  "originalObjectID": "C62030BC-68C9-4FBC-9126-992C6893DBE5",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4C6B7EED-8F24-4770-B16B-04E4BC2A6E70",
+      "overrideName": "BA26E9E2-486A-4937-8259-93E01E632219_stringValue",
+      "value": "°C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8AC30FFC-8EC8-4AF9-9D96-68CF95CB8A94",
+      "overrideName": "3845DFC7-8A58-45CE-ADD7-80840043D389_stringValue",
+      "value": "25"
+    }
+  ],
+  "overrides": {
+    "3845DFC7-8A58-45CE-ADD7-80840043D389": "25",
+    "BA26E9E2-486A-4937-8259-93E01E632219": "°C"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1616ED66-FF93-485E-A56F-E967418C1484",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

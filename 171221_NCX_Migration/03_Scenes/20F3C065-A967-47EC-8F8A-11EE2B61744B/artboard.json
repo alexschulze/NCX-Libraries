@@ -1,0 +1,127 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9607843137254902,
+    "red": 0.9764705882352941
+  },
+  "do_objectID": "20F3C065-A967-47EC-8F8A-11EE2B61744B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 713,
+    "width": 375,
+    "x": 2926,
+    "y": -184
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7049FA70-2C12-4FF6-9DC1-D8E505E79B6C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6EF15227-B523-40F0-A52D-1C8321B91803"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6CB00484-C393-4548-A250-86863F4C96B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A50EFEBD-34AF-404C-A7FA-430A0235B1AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "169B041B-D114-42AD-8365-F4FFC53F2B7B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0A2572C9-277A-417B-8864-47BF3709DAD0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "210654F8-F8B6-4509-9348-62BA87D43B9B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5697BBA0-9B72-4C7A-84FF-58854B5D22FD"
+    }
+  ],
+  "name": "Scene_06",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "8CCC1970-1A5C-4876-AFC9-ABFF75F721A5"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

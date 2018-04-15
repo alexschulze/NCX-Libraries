@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "30F8BEF0-43F2-4BC7-9DBD-10C36045A5E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / Nav Bar Registration 2",
+  "nameIsFixed": false,
+  "originalObjectID": "982D5D5D-FA90-46C5-8C41-3F3C6C143848",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8152E38D-90E1-4402-ADC2-CF3191148FBF_stringValue",
+      "value": "Ihre Meinung"
+    }
+  ],
+  "overrides": {
+    "8152E38D-90E1-4402-ADC2-CF3191148FBF": "Ihre Meinung"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C41EFEB5-D546-4366-90D8-A0AC2F908453",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8F9AEDAC-A454-49BA-9C0E-FBD0A047AE4C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 375,
+    "x": 0,
+    "y": 270
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Device Card Single Dark Copy 3",
+  "nameIsFixed": false,
+  "originalObjectID": "8F38AD09-37A8-4B6D-9B5D-FE4840DB1C63",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "780197C8-BBFF-4837-A6DE-D0D5E3BAF25C_symbolID",
+      "value": "21E60DA2-CAC3-474B-98DE-5B00F1FAF4E4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B0103CBE-B2E0-4717-BE5A-4751C20E21C6_symbolID",
+      "value": "EA6D2E8A-D216-4EE6-A414-D50F7CF24FB8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ACF343F0-4A13-4DC3-A788-7946772B1F4E_symbolID",
+      "value": "7FB3F464-4360-4CE2-B0AD-9DEE4E96122A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "04650020-F207-4DAF-9583-A21784ECD2C6_symbolID",
+      "value": "21E60DA2-CAC3-474B-98DE-5B00F1FAF4E4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EF89282D-F492-41BA-9F1F-F2D81365010A/AAD45763-DBE2-4381-945C-85505473EABF_stringValue",
+      "value": "Door Window Contact"
+    }
+  ],
+  "overrides": {
+    "04650020-F207-4DAF-9583-A21784ECD2C6": {
+      "symbolID": "21E60DA2-CAC3-474B-98DE-5B00F1FAF4E4"
+    },
+    "780197C8-BBFF-4837-A6DE-D0D5E3BAF25C": {
+      "symbolID": "21E60DA2-CAC3-474B-98DE-5B00F1FAF4E4"
+    },
+    "ACF343F0-4A13-4DC3-A788-7946772B1F4E": {
+      "symbolID": "7FB3F464-4360-4CE2-B0AD-9DEE4E96122A"
+    },
+    "B0103CBE-B2E0-4717-BE5A-4751C20E21C6": {
+      "symbolID": "EA6D2E8A-D216-4EE6-A414-D50F7CF24FB8"
+    },
+    "EF89282D-F492-41BA-9F1F-F2D81365010A": {
+      "AAD45763-DBE2-4381-945C-85505473EABF": "Door Window Contact"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AC0EDBEE-9ACD-4A4A-9FC7-AE7BAF5FFE6B",
+  "verticalSpacing": 0
+}

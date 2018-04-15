@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "98340882-ADF9-4A7B-9400-CAD34243A207",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 375,
+    "x": 0,
+    "y": 595
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Last used",
+  "nameIsFixed": false,
+  "originalObjectID": "F98BB882-5556-444A-9EC8-32A3CDECE35B",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "113B4A64-1927-49CA-A0FD-0515B68C3B31_stringValue",
+      "value": "u"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1534B9E8-F446-4B9B-8637-E8800BFCA2C7_stringValue",
+      "value": "w"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8D3BD646-1775-44A1-8805-ED93378A7743_stringValue",
+      "value": "v"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E867B289-5753-4016-918A-22FBB29BE6ED_stringValue",
+      "value": "t"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5E2D3D0F-1675-44E4-82E0-2B50C19D073E_stringValue",
+      "value": "s"
+    }
+  ],
+  "overrides": {
+    "113B4A64-1927-49CA-A0FD-0515B68C3B31": "u",
+    "1534B9E8-F446-4B9B-8637-E8800BFCA2C7": "w",
+    "5E2D3D0F-1675-44E4-82E0-2B50C19D073E": "s",
+    "8D3BD646-1775-44A1-8805-ED93378A7743": "v",
+    "E867B289-5753-4016-918A-22FBB29BE6ED": "t"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F8A8A6D4-A032-4494-8B0E-1914BF9E81E0",
+  "verticalSpacing": 0
+}

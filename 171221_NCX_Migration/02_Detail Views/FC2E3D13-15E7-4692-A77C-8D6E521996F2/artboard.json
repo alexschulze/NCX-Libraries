@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9607843137254902,
+    "red": 0.9764705882352941
+  },
+  "do_objectID": "FC2E3D13-15E7-4692-A77C-8D6E521996F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 7134,
+    "y": 2106
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "05AD879A-74A5-40D3-BB45-7287F6E384E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45394AAC-9120-4999-8E85-DDE2E6542398"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "77232FF9-B154-40F4-82EF-99F80EBCE59E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E86A5404-FBBC-4648-83F3-806E4A65C669"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBF2DE50-B1C7-436A-9120-9A935D224742"
+    },
+    {
+      "class": "text",
+      "id": "4DEBA34F-BD89-4113-8A54-556FAB495367"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA014ADF-81CF-4D78-A5D9-EEB72B7A4B84"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D968D5EB-FBBA-43B2-99F2-13A9C5A9F324"
+    }
+  ],
+  "name": "Thermostat_05 Copy",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9607843137254902,
+    "red": 0.9764705882352941
+  },
+  "do_objectID": "02BDFEF8-1563-4B5A-B21F-1A96EBB659E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 484,
+    "y": -2576
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "436D8DEA-2283-4B05-87B6-AA1AF5E85C1A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9181651A-4D7F-4C18-A2BD-53DBDC90FA7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59344876-1D93-46BC-9A16-17EF54492F3E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4FC82E53-93C9-4B8D-B93E-D2992D86ACF2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B988DFEC-0429-46E3-A8E5-6E5279239E76"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EA041626-6E8E-40D2-9116-CD533BBACED6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4DBE358E-682A-4D69-87E3-819BC4D1CEC7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "88C2591E-FFA6-4B22-8F77-F7088224053D"
+    }
+  ],
+  "name": "Automation_Action_02",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "07291AE7-5B82-4CFB-908A-B381F2A0C32C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 375,
+    "x": 0,
+    "y": 595
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Last used",
+  "nameIsFixed": false,
+  "originalObjectID": "9AA19EA4-FEC4-442D-A4A5-B2F160222619",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E7C62149-67ED-40E8-811A-DCA026261FD0_stringValue",
+      "value": "20°"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E1279A8B-C7F1-46E5-9A68-9908B141D58B_stringValue",
+      "value": "25°"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26C72977-E1B4-47C1-83B6-C368DF32AA18_stringValue",
+      "value": "23,5°"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "36644ED2-D573-40D8-BAA8-13F99BD004D5_stringValue",
+      "value": "15°"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9FCBEF74-4B5A-48DE-B8DA-6C25C1D3BEAF_stringValue",
+      "value": "22°"
+    }
+  ],
+  "overrides": {
+    "26C72977-E1B4-47C1-83B6-C368DF32AA18": "23,5°",
+    "36644ED2-D573-40D8-BAA8-13F99BD004D5": "15°",
+    "9FCBEF74-4B5A-48DE-B8DA-6C25C1D3BEAF": "22°",
+    "E1279A8B-C7F1-46E5-9A68-9908B141D58B": "25°",
+    "E7C62149-67ED-40E8-811A-DCA026261FD0": "20°"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A36A4E87-11A3-4AFF-A3B0-528C28BECF32",
+  "verticalSpacing": 0
+}

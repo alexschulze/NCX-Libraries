@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A5E4D73E-EECE-422E-AABB-F077BF2D2428",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 110,
+    "width": 5268,
+    "x": -1688,
+    "y": -4231
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Charts / Subheadline Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6E1B90B-FB4A-4F2B-BB75-5B43F14C9ED0",
+      "overrideName": "0D9B84A5-6C09-4313-A788-08E393E71FB4_stringValue",
+      "value": "Automation NCX"
+    }
+  ],
+  "overrides": {
+    "0D9B84A5-6C09-4313-A788-08E393E71FB4": "Automation NCX"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "093AAA91-0D62-49CE-9B40-0E58A830BFA5",
+  "verticalSpacing": 0
+}

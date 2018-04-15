@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4EBBD6F4-BCF4-49D4-9829-C16C8C47012A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 276,
+    "x": 75.00000000000006,
+    "y": 88
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Headlines / Cards / Blue Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "2932ACC6-854D-4460-AD0C-4AD97DC6BBD0",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D12CB018-A2FF-48CB-8D7D-8260D86C33ED",
+      "overrideName": "C76AE9CD-5090-481A-91CC-C3C2167274E4_stringValue",
+      "value": "You are the master of the universe"
+    }
+  ],
+  "overrides": {
+    "C76AE9CD-5090-481A-91CC-C3C2167274E4": "You are the master of the universe"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4C9DCED9-ABEA-4E8D-A8B2-0F885BC5B10D",
+  "verticalSpacing": 0
+}

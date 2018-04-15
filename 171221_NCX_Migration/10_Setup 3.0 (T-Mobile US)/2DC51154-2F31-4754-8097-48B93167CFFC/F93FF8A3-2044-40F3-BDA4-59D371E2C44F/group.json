@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "F93FF8A3-2044-40F3-BDA4-59D371E2C44F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 76,
+    "x": 150,
+    "y": 579
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "78AF0219-6F92-4BB0-BCAC-982A555C6394"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1B566AAF-657B-4EFC-B251-450E69F59C03"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2656FA2F-04DE-47F6-892C-5010A98A9E59"
+    },
+    {
+      "class": "group",
+      "id": "D951BD74-C22F-4007-BE62-BDCDBCC9F048"
+    }
+  ],
+  "name": "T_Logo_3c_n_DE",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

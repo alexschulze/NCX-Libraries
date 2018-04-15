@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9C5E5DDB-C0F6-4209-BB0C-B026ACE21811",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 62,
+    "width": 375,
+    "x": 0,
+    "y": 655
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Icon",
+  "nameIsFixed": false,
+  "originalObjectID": "E010C254-DEB4-4C39-87B8-8D28AC7FA683",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9331A1F7-30CD-4084-8D06-04B8E92FCE52_stringValue",
+      "value": "Update Available"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "75ECE0CD-9E4A-46DA-9A90-DC3CEB03B041_symbolID",
+      "value": "8255CA84-1AC1-4738-8D12-1D992ADC3315"
+    }
+  ],
+  "overrides": {
+    "75ECE0CD-9E4A-46DA-9A90-DC3CEB03B041": {
+      "symbolID": "8255CA84-1AC1-4738-8D12-1D992ADC3315"
+    },
+    "9331A1F7-30CD-4084-8D06-04B8E92FCE52": "Update Available"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7F11B111-8168-49D0-825B-ACCE6B19B478",
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "42E1599E-F56C-4E3A-B606-8C85D987FF83"
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CA54F743-3575-44DA-9DA4-F0A7D0B7334B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Edit White",
+  "nameIsFixed": false,
+  "originalObjectID": "0406C116-D0BB-45CC-88A2-7405C24FD5D7",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E2686671-8A91-43E9-92E2-6D48F5D89F3D_stringValue",
+      "value": "c"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "559C289F-0600-49DD-BC2D-DA1C6EEF6E81_stringValue",
+      "value": ":"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "06EE2658-47FE-4BA2-8904-EEB1F2BDC15D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "203FA478-5830-41F4-A0B3-20D0A01C8992_stringValue",
+      "value": "Living Room"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "71AB183A-4FB2-4E81-961E-9057462B0DA8_stringValue",
+      "value": "Folder"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D565CF6C-F28D-4B50-996D-63606DCC430D_stringValue",
+      "value": "c"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "031DB579-C663-48C9-83A8-265086F9696F_stringValue",
+      "value": ":"
+    }
+  ],
+  "overrides": {
+    "031DB579-C663-48C9-83A8-265086F9696F": ":",
+    "06EE2658-47FE-4BA2-8904-EEB1F2BDC15D": {
+      "symbolID": ""
+    },
+    "203FA478-5830-41F4-A0B3-20D0A01C8992": "Living Room",
+    "559C289F-0600-49DD-BC2D-DA1C6EEF6E81": ":",
+    "71AB183A-4FB2-4E81-961E-9057462B0DA8": "Folder",
+    "D565CF6C-F28D-4B50-996D-63606DCC430D": "c",
+    "E2686671-8A91-43E9-92E2-6D48F5D89F3D": "c"
+  },
+  "resizingConstraint": 42,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F1288CEF-B46E-40E1-B3CE-EA10BCCCF20E",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,122 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9607843137254902,
+    "red": 0.9764705882352941
+  },
+  "do_objectID": "5972DC4A-5AF0-40D7-9220-B7686DC2B3AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 8453,
+    "y": 1246
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A309242B-2D6D-4147-B164-00B075D1EFCB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73912051-FFFF-40BA-BA3B-2BC77F0FEF60"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "69870CD4-2B9A-4792-AF44-095A039050B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3874CC38-4610-4483-8D3C-F3D5D341FFB6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5272CEA-41B5-46CD-97A8-E357DB7430AA"
+    },
+    {
+      "class": "text",
+      "id": "4E6D7315-DD5C-419E-A20A-BFEF883E97EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F2CA20F-D2CB-4DE6-B175-D4AC31A64FD1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDB4B3E4-7F5F-4D99-94D8-2E4D02C5153C"
+    }
+  ],
+  "name": "Thermostat_05",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

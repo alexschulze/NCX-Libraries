@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "433AFC86-7926-4AF2-84A4-0B4E606B2D6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 62,
+    "width": 375,
+    "x": 0,
+    "y": 493
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Headlines / Subheadline Edit Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "38085994-F049-4779-8BBC-415AEFEA3BAA",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2D865276-5E7B-4F0C-A63E-1B3DF0E5E8C2_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AC303074-99EC-4149-8B75-6E2945A152FE",
+      "overrideName": "782EB090-BA70-496F-9009-9118C4636757_stringValue",
+      "value": "Select all"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8D19CF34-CF4D-4003-B739-569308A481C1",
+      "overrideName": "79BE313A-727E-4FAE-8EA7-604C2F139DF9_stringValue",
+      "value": "Living Room"
+    }
+  ],
+  "overrides": {
+    "2D865276-5E7B-4F0C-A63E-1B3DF0E5E8C2": " ",
+    "782EB090-BA70-496F-9009-9118C4636757": "Select all",
+    "79BE313A-727E-4FAE-8EA7-604C2F139DF9": "Living Room"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "52CFA4F3-D5A3-47DE-B760-460AC9707B76",
+  "verticalSpacing": 0
+}

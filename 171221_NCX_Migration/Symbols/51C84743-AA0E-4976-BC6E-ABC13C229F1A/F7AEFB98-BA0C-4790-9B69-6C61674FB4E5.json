@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F7AEFB98-BA0C-4790-9B69-6C61674FB4E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 57,
+    "width": 355,
+    "x": 10,
+    "y": 364
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Action 1",
+  "nameIsFixed": true,
+  "originalObjectID": "C2FA2454-3349-4346-A05B-22DD595A54EC",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "25EA3D17-7309-44FA-AB2F-517E8C8A74FC_stringValue",
+      "value": "Temperature"
+    }
+  ],
+  "overrides": {
+    "25EA3D17-7309-44FA-AB2F-517E8C8A74FC": "Temperature"
+  },
+  "resizingConstraint": 34,
+  "resizingType": 2,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6687BC0E-56A7-4DC0-B9EA-B908FC07A590",
+  "verticalSpacing": 0
+}

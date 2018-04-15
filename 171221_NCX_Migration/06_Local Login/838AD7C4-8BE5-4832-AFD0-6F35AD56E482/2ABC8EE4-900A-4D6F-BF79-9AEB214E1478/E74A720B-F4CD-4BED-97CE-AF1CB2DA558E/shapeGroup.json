@@ -1,0 +1,115 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "E74A720B-F4CD-4BED-97CE-AF1CB2DA558E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 14.03743315508022,
+    "width": 20.05347593582888,
+    "x": 13,
+    "y": 38
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "960BCE6E-125F-4681-9985-C390B3985F86"
+    },
+    {
+      "class": "shapePath",
+      "id": "B642E314-69CD-42E6-BA23-11608C82FE64"
+    },
+    {
+      "class": "shapePath",
+      "id": "84AE0F23-4DB8-4239-98C8-F69B4AACDE73"
+    }
+  ],
+  "name": "c",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 1,
+        "color": {
+          "_class": "color",
+          "alpha": 0.4,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNASAAAAAAAAF8QEFRlbGVJY29uLU91dGxpbmXSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA5gDrAPYA/wEVARkBJgEvATQBRwFKAV0BbwFyAXcAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABeQ=="
+        },
+        "paragraphStyle": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGV1hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEwcIEyMnLTAzNjk8P0JFSEtOUVRVJG51bGzVCQoLDA0ODxARElpOU1RhYlN0b3BzW05TQWxpZ25tZW50XE5TVGV4dEJsb2Nrc18QH05TVGlnaHRlbmluZ0ZhY3RvckZvclRydW5jYXRpb25WJGNsYXNzgAIQAoARIz+pmZmgAAAAgBLSFA0VIlpOUy5vYmplY3RzrBYXGBkaGxwdHh8gIYADgAWABoAHgAiACYAKgAuADIANgA6AD4AQ0g0kJSZaTlNMb2NhdGlvboAEI0A8AAAAAAAA0igpKitaJGNsYXNzbmFtZVgkY2xhc3Nlc1lOU1RleHRUYWKiKixYTlNPYmplY3TSDSQlL4AEI0BMAAAAAAAA0g0kJTKABCNAVQAAAAAAANINJCU1gAQjQFwAAAAAAADSDSQlOIAEI0BhgAAAAAAA0g0kJTuABCNAZQAAAAAAANINJCU+gAQjQGiAAAAAAADSDSQlQYAEI0BsAAAAAAAA0g0kJUSABCNAb4AAAAAAANINJCVHgAQjQHGAAAAAAADSDSQlSoAEI0BzQAAAAAAA0g0kJU2ABCNAdQAAAAAAANIoKU9QV05TQXJyYXmiTyzSFA1SIqCAENIoKVVWXxAQTlNQYXJhZ3JhcGhTdHlsZaJVLF8QD05TS2V5ZWRBcmNoaXZlctFZWlRyb290gAEACAARABoAIwAtADIANwBNAFMAXgBpAHUAggCkAKsArQCvALEAugC8AMEAzADZANsA3QDfAOEA4wDlAOcA6QDrAO0A7wDxAPMA+AEDAQUBDgETAR4BJwExATQBPQFCAUQBTQFSAVQBXQFiAWQBbQFyAXQBfQGCAYQBjQGSAZQBnQGiAaQBrQGyAbQBvQHCAcQBzQHSAdQB3QHiAeQB7QHyAfoB/QICAgMCBQIKAh0CIAIyAjUCOgAAAAAAAAIBAAAAAAAAAFsAAAAAAAAAAAAAAAAAAAI8"
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "windingRule": 1
+}

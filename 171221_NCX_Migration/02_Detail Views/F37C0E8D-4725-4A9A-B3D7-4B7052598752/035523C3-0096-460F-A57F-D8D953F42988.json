@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "035523C3-0096-460F-A57F-D8D953F42988",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 198,
+    "x": 0,
+    "y": 356
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Details / Value Copy 7",
+  "nameIsFixed": false,
+  "originalObjectID": "498487FF-4BEC-4E1F-8475-892D03526091",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B94FBDB9-BECA-4A85-B8F2-162011243EE0_stringValue",
+      "value": "mm/h"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9CC9FDFE-F206-4AEC-B7F3-A9AF18FDA9A8_stringValue",
+      "value": "2,5"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7A2730BF-22D0-4AB0-A791-55B7142907F3_stringValue",
+      "value": "Moderate Rain"
+    }
+  ],
+  "overrides": {
+    "7A2730BF-22D0-4AB0-A791-55B7142907F3": "Moderate Rain",
+    "9CC9FDFE-F206-4AEC-B7F3-A9AF18FDA9A8": "2,5",
+    "B94FBDB9-BECA-4A85-B8F2-162011243EE0": "mm/h"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "31CAD8E1-CA3A-488E-9768-43169E5119A1",
+  "verticalSpacing": 0
+}

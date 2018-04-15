@@ -1,0 +1,145 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2145,
+  "do_objectID": "BC1E0C85-6A24-41B7-A3F7-F2F4F7F6BF77",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 375,
+    "x": 22883,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1C2FF18B-816F-4437-8101-6D6010D51DE7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E2614307-0F3C-42B1-BEF1-48B47C886597"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7071B49-7C84-4C1D-A435-A80913A4C6D5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B6F878FC-4DEE-48A8-AAC0-E58708F65919"
+    },
+    {
+      "class": "text",
+      "id": "3447F1DC-4938-461B-AC91-0A63CB5F271F"
+    },
+    {
+      "class": "text",
+      "id": "0CEA7520-9971-4B2D-91E9-C200FCC9DBC7"
+    },
+    {
+      "class": "text",
+      "id": "9BBAB28F-704D-4EB3-841D-DCA0FDE23BAD"
+    },
+    {
+      "class": "text",
+      "id": "8A490DAF-37E3-45F8-9676-B471AD2E08A8"
+    },
+    {
+      "class": "text",
+      "id": "56CB8393-92AA-400B-9374-6DB91670F1D7"
+    },
+    {
+      "class": "text",
+      "id": "1065177E-2545-47F8-9CB9-E960342B80F8"
+    },
+    {
+      "class": "text",
+      "id": "92325B7D-E87F-4E56-B911-197850E278D4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DE1E3DD6-0E13-48C7-BB94-2D3A94CAFC68"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CEA601A1-CE9A-436D-B94B-1AFC75D62DBD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2CBB3714-B041-4D82-8F4A-B5A7D6FDA797"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EDC39CEC-6B75-4E2D-9CCA-2C9593698A43"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "87AC4F59-A7AC-4E9A-A0F3-ACA0ED65C45C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E4E45E5-E259-4767-BA76-F78E97382E0D"
+    },
+    {
+      "class": "text",
+      "id": "3389A769-4835-4E13-A7F6-CF58063FF28D"
+    },
+    {
+      "class": "text",
+      "id": "5AB836E9-35F4-4CB7-9F6E-A3B7F94421F0"
+    }
+  ],
+  "name": "Time Picker Sunrise",
+  "nameIsFixed": true,
+  "originalObjectID": "BC1E0C85-6A24-41B7-A3F7-F2F4F7F6BF77",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4A03D3AE-93C4-407C-8F9E-3D6492EBBE94",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "3288A129-5B69-4860-A98C-3801F8493357",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 329,
+    "width": 239,
+    "x": 586,
+    "y": 169
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "97F91776-1BBF-4D73-8700-0976F4FE15E5"
+    },
+    {
+      "class": "text",
+      "id": "83F0BCFD-5F63-4CDD-AE68-1802ED67B442"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F580BEEC-2C1F-43D4-A78E-455B3903DEE5"
+    }
+  ],
+  "name": "Heating",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

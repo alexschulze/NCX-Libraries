@@ -1,0 +1,110 @@
+{
+  "_class": "page",
+  "do_objectID": "6A167701-8F54-4C2C-BC03-071E8C890CE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -450,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "71A50056-76E4-4B50-8A77-AF50854F29D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7DC9578F-1176-4535-89CE-8756BE515054"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3493F175-C1FB-41C8-83AD-CCB16E52CF58"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "444B6EE1-5EA8-4525-85F9-A18587DEE973"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC9EEE47-6148-4A51-A13D-DBC8ADBE9C2F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ACEFB497-49AC-4870-A6DE-0F34B8EC125F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9AEBD59-9380-4615-9476-C2020C6FE5BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BA2A080-0FAF-42DD-AC35-EBA7B9A14BBA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CEE21100-2FB9-4E09-8B32-D55930F1E1BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C7F34F2-0C90-4A5B-A37A-898D28B1EE6C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40D1F2E0-0CF9-41A0-9625-182938239ACA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BEE4EC2C-3CCA-4A9F-8240-65E130C3CD3C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1FDD0967-79DE-4E8A-A525-12F440E41FE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7A977169-7D2E-4BE1-9BA0-E4D12FEFB8A8"
+    }
+  ],
+  "name": "02_Headlines",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -339,
+    "guides": [
+    ]
+  }
+}

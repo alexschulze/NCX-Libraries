@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C763CA9E-EAB3-4912-9FED-02B07B8C7539",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 375,
+    "x": 0,
+    "y": 211
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Details / Slider",
+  "nameIsFixed": false,
+  "originalObjectID": "3873A845-FB3C-4550-B954-C601681A7B07",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "71BFC026-157D-4490-826C-B206588A4455_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E0568882-2F47-43C9-A06A-F4904A465BDF_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4E568272-81FD-44E8-BE7B-B45D0BEBB137/BA1084C2-FCC7-49AC-A7C2-2773DB8C2071_stringValue",
+      "value": "01:00"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2EC6A8B9-8D08-444E-9E61-A9DD4A8BF801/BA1084C2-FCC7-49AC-A7C2-2773DB8C2071_stringValue",
+      "value": "01:05"
+    }
+  ],
+  "overrides": {
+    "2EC6A8B9-8D08-444E-9E61-A9DD4A8BF801": {
+      "BA1084C2-FCC7-49AC-A7C2-2773DB8C2071": "01:05"
+    },
+    "4E568272-81FD-44E8-BE7B-B45D0BEBB137": {
+      "BA1084C2-FCC7-49AC-A7C2-2773DB8C2071": "01:00"
+    },
+    "71BFC026-157D-4490-826C-B206588A4455": " ",
+    "E0568882-2F47-43C9-A06A-F4904A465BDF": " "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4A23446A-51AC-4D30-8DA0-7F2CCBF2F01C",
+  "verticalSpacing": 0
+}

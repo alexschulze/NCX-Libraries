@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "466131DF-B6C3-459C-9251-C222B7BA7D60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 339,
+    "x": 18,
+    "y": 342
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Devices / Device Card Copy 3",
+  "nameIsFixed": false,
+  "originalObjectID": "E58A877E-5B10-4F18-8697-5F91C91FCCE2",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D947D121-9584-410E-9D7E-3FC4A99CCAFA",
+      "overrideName": "A4666EE4-D25D-4E3D-8BAF-7D28C4D90314_symbolID",
+      "value": "173DC146-86CE-462C-A0ED-2514AD539EDE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8C2F7528-BDBE-484D-9EB6-BA9EB7D9637F",
+      "overrideName": "5DD85302-8B25-4419-A6C7-76D9B20DDE57_symbolID",
+      "value": "8F0B09FA-6845-4DD6-AF0F-39F1317497FC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "742E61C0-A9ED-48EE-85E5-54DF2337446C",
+      "overrideName": "BD40B16F-C9B7-431D-9030-73DAFCB0583C_symbolID",
+      "value": "35D5C3DE-74DE-4C8D-9C83-765A9B9B53D0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DEED5E8-FFF4-4BCF-A65C-FA28A7EF29FA",
+      "overrideName": "E0EA2C9C-076F-459A-8E24-37BF567FDA44_stringValue",
+      "value": "Playing"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1DB25AFE-BC62-4485-9881-D7EAAE4CBC96",
+      "overrideName": "D77AF90B-5476-4F0B-BF9E-61FA07297F88_stringValue",
+      "value": "Sonos Speaker"
+    }
+  ],
+  "overrides": {
+    "5DD85302-8B25-4419-A6C7-76D9B20DDE57": {
+      "symbolID": "8F0B09FA-6845-4DD6-AF0F-39F1317497FC"
+    },
+    "A4666EE4-D25D-4E3D-8BAF-7D28C4D90314": {
+      "symbolID": "173DC146-86CE-462C-A0ED-2514AD539EDE"
+    },
+    "BD40B16F-C9B7-431D-9030-73DAFCB0583C": {
+      "symbolID": "35D5C3DE-74DE-4C8D-9C83-765A9B9B53D0"
+    },
+    "D77AF90B-5476-4F0B-BF9E-61FA07297F88": "Sonos Speaker",
+    "E0EA2C9C-076F-459A-8E24-37BF567FDA44": "Playing"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F4113206-2034-4D56-B997-A293C70464A4",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "01B59F63-20FD-475E-B57E-DA83068DEFA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Action Sheet Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "188A6B1A-5BBD-44C4-AA36-5B9F24C734A8",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D1CBF3CD-1F42-4B89-B259-6312E2600FBA",
+      "overrideName": "0C0DE2D7-8879-472D-A05B-4491E8C56DCF/25EA3D17-7309-44FA-AB2F-517E8C8A74FC_stringValue",
+      "value": "Else ..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "923CAA3A-F122-4B86-AF71-29EB8509CEC6",
+      "overrideName": "86ECCEF1-956D-4CB2-8262-F8365ECE6294/1A3C2FA4-A471-44E4-83CA-7140D78C182E_stringValue",
+      "value": "Add action"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F891201E-1B89-4AF0-9CF5-E994B22CD22E",
+      "overrideName": "CBE588CD-8079-4049-AB05-D85CD2C658EF/5901105D-1E49-4FCD-AEE1-A9FE0229A86B_stringValue",
+      "value": "Add time delay"
+    }
+  ],
+  "overrides": {
+    "0C0DE2D7-8879-472D-A05B-4491E8C56DCF": {
+      "25EA3D17-7309-44FA-AB2F-517E8C8A74FC": "Else ..."
+    },
+    "86ECCEF1-956D-4CB2-8262-F8365ECE6294": {
+      "1A3C2FA4-A471-44E4-83CA-7140D78C182E": "Add action"
+    },
+    "CBE588CD-8079-4049-AB05-D85CD2C658EF": {
+      "5901105D-1E49-4FCD-AEE1-A9FE0229A86B": "Add time delay"
+    }
+  },
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A0324D93-CE35-4A8A-8313-605863749B85",
+  "verticalSpacing": 0
+}

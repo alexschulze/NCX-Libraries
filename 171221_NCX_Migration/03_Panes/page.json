@@ -1,0 +1,110 @@
+{
+  "_class": "page",
+  "do_objectID": "509D2002-AD7E-4700-BB4D-0775660EFDBD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -450,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1B19282A-88F3-4DAE-8740-CEA3AA6AFBAE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7DEC4508-0BD1-49F4-9A9B-BF13D636DAB6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "13FF32C2-9B01-490C-895C-5A8E2BC49D33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D95660B-0012-4306-9C20-4BEFED5BEEBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5648BEB0-C129-4528-B560-06607B0D2FDC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "374AA920-73D1-45DA-82A4-6769AD8FD274"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73A5D6E3-6540-45A0-8417-7154E7553E18"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7814A216-07E8-4140-8B1E-7BB2AD4C091F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50488882-2F9D-4A28-8A3F-4F329EB09ACD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C5313DF-4B75-4F80-AE5F-D94E51DE6106"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "716975B3-FE19-498D-A3EB-BBE3E7F33C97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D0AC9EB-2A11-4089-B5EA-B32C7548722B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40117E73-F7C2-4516-B489-A070942B82B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "705F757D-56BE-4E55-ADF0-9922142C0256"
+    }
+  ],
+  "name": "03_Panes",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -339,
+    "guides": [
+    ]
+  }
+}

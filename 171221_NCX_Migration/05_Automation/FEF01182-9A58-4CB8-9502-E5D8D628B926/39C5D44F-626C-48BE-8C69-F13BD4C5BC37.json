@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "39C5D44F-626C-48BE-8C69-F13BD4C5BC37",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CE7503FD-16C8-4986-9D96-1B0EB6C492A8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7AAACBE5-9B44-4CF8-9D8E-43D6405EE7BF",
+    "height": 62,
+    "width": 375,
+    "x": 0,
+    "y": 479
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Headlines / Subheadline Edit Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "38085994-F049-4779-8BBC-415AEFEA3BAA",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EBDAE5B2-36F3-4C07-9971-FA2A7F1A0E56/F131375C-4B7F-43D1-AE23-8C511E2C1467_stringValue",
+      "value": "Kitchen"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8A5CB14C-88F4-4AC1-A285-992036F2E960_symbolID",
+      "value": "AD0859C9-43EE-4FD7-AAA7-7E3512DA427C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "79BE313A-727E-4FAE-8EA7-604C2F139DF9_stringValue",
+      "value": "Kitchen"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "782EB090-BA70-496F-9009-9118C4636757_stringValue",
+      "value": "Select all"
+    }
+  ],
+  "overrides": {
+    "782EB090-BA70-496F-9009-9118C4636757": "Select all",
+    "79BE313A-727E-4FAE-8EA7-604C2F139DF9": "Kitchen",
+    "8A5CB14C-88F4-4AC1-A285-992036F2E960": {
+      "symbolID": "AD0859C9-43EE-4FD7-AAA7-7E3512DA427C"
+    },
+    "EBDAE5B2-36F3-4C07-9971-FA2A7F1A0E56": {
+      "F131375C-4B7F-43D1-AE23-8C511E2C1467": "Kitchen"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "29DDB089-491C-4ED4-BB23-98DC459B4EC3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "52CFA4F3-D5A3-47DE-B760-460AC9707B76",
+  "verticalSpacing": 0
+}

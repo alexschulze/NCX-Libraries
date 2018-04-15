@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2AB00995-0536-4546-8956-75686BFF659B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 375,
+    "x": 0,
+    "y": 338
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rectangle 1489 + Fernbedienung Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "4DFD10C2-DF23-4EBF-BAA2-E358AC1252D4",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BB35FADD-3B8F-4C1E-AFED-E4AA7CE967C0_stringValue",
+      "value": "Activitiy"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F1C607C1-543A-4135-8229-E4F4F19D3BAC_stringValue",
+      "value": "Activity 1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7BCAB760-0579-42C1-961E-EEC926089A93_stringValue",
+      "value": "14:48"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3B4B87AD-682E-4FB5-B023-95504DCE0C5C_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "3B4B87AD-682E-4FB5-B023-95504DCE0C5C": {
+      "symbolID": ""
+    },
+    "7BCAB760-0579-42C1-961E-EEC926089A93": "14:48",
+    "BB35FADD-3B8F-4C1E-AFED-E4AA7CE967C0": "Activitiy",
+    "F1C607C1-543A-4135-8229-E4F4F19D3BAC": "Activity 1"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1A909985-47C9-4F9B-81F5-3FC4534EF558",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_9fc5a663-b067-40c5-9040-23ee96731bb5",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_34def2ac-830f-46f6-bf51-68ae4797cb79",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_46aea2ce-68a9-477c-9b43-366fd1294956",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
